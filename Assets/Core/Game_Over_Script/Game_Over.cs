@@ -26,6 +26,7 @@ public class Game_Over : MonoBehaviour
     }
     private IEnumerator GameOverSequence()
     {
+        Time.timeScale = 0f;
         Scoremanager.instance.gameSpeed = 0f;
         Debug.Log("Transition null? " + (transition == null)); 
         transition.Play("Transistion anim");                   // suruh animator mainin fade
@@ -35,7 +36,7 @@ public class Game_Over : MonoBehaviour
         gameOverPanel.SetActive(true);
         GameOverText.text = "Game Over";
         finalScoreText.text = "Score: " + Mathf.FloorToInt(Scoremanager.instance._score);
-        Time.timeScale = 0f;
+       
     }
 
 }
