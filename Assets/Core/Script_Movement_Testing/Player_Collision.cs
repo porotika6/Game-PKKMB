@@ -6,7 +6,8 @@ public class Player_Collision : MonoBehaviour
     {
         if (other.CompareTag("Obstacle"))
         {
+            Game_Over.instance.GameOver();
             Debug.Log("HIT");
         }
-    }
+    } 
 }

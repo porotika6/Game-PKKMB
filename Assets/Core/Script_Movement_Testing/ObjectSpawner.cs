@@ -3,7 +3,7 @@ using UnityEngine;
 public class ObjectSpawner : MonoBehaviour
 {
     public GameObject[] obstaclePrefabs;
-    public float spawnX = 12f;   // kanan, di luar layar
+    public float spawnX = 12f;   
     public float minDelay = 1f;
     public float maxDelay = 2f;
 
@@ -21,9 +21,9 @@ public class ObjectSpawner : MonoBehaviour
         if (_timer >= _nextSpawn)
         {
             int i = Random.Range(0, obstaclePrefabs.Length);
-            Instantiate(obstaclePrefabs[i], new Vector3(spawnX, transform.position.y, 0), Quaternion.identity);
+            Instantiate(obstaclePrefabs[i], new Vector3(spawnX, obstaclePrefabs[i].transform.position.y, 0), Quaternion.identity);
             _timer = 0f;
-            _nextSpawn = Random.Range(minDelay, maxDelay); // jarak acak biar gak monoton
+            _nextSpawn = Random.Range(minDelay, maxDelay); 
         }
     }
 }

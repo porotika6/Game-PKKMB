@@ -29,7 +29,6 @@ public class Player_Active_Input : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     private void Start()
     {
-        // "Move" itu nama action yang didefinisikan di Input Actions asset
         _moveAction = InputSystem.actions.FindAction("Move");
         _jumpAction = InputSystem.actions.FindAction("Jump");
         Debug.Log($"Move found: {_moveAction != null} | Jump found: {_jumpAction != null} | Jump enabled: {_jumpAction?.enabled}");

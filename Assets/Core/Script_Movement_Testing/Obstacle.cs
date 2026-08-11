@@ -7,8 +7,11 @@ public class Obstacle : MonoBehaviour
 
     void Update()
     {
+        float speed = Scoremanager.instance.gameSpeed;
         transform.Translate(Vector2.left * speed * Time.deltaTime);
         if (transform.position.x <= despawnX)
+        {
             Destroy(gameObject);
+        }
     }
 }
