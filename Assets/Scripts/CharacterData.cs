@@ -8,7 +8,8 @@ public class CharacterData : ScriptableObject
     [Header("Info tampilan")]
     public string characterName;
     [TextArea] public string popupDescription;
-    public Sprite icon;         
+    public Sprite icon;
+    public string hexCode;
 
     [Header("Gameplay")]
     public GameObject gameplayPrefab;

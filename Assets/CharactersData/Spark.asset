@@ -9,10 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ae6976339b3e2504b83bfd649546e864, type: 3}
-  m_Name: Dim
+  m_Script: {fileID: 11500000, guid: f5b206ae95a4ef44aaefd9b025452a55, type: 3}
+  m_Name: Spark
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
-  characterName: Volt
-  popupDescription: Halo, saya Dim maskot dari prodi Pendidikan Teknik Elektronika
-  icon: {fileID: 21300000, guid: 6c608b26b09007247be82e2b2f3b6a34, type: 3}
+  characterName: Spark
+  popupDescription: 'Halo, aku Spark maskot dari prodi Pendidikan Teknik Elektro '
+  icon: {fileID: 21300000, guid: d0c7cec0892a2ac41bf942b79efb0ff7, type: 3}
   gameplayPrefab: {fileID: 0}

@@ -9,12 +9,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1ca981e79043c4c42b415ac28c5cbdb5, type: 3}
+  m_Script: {fileID: 11500000, guid: bd89224c673849544b6656d52cb429ed, type: 3}
   m_Name: CharacterDatabase
   m_EditorClassIdentifier: Assembly-CSharp::CharacterDatabase
   characters:
-  - {fileID: 11400000, guid: 33988a8e477ec0f4e891dd5d92bd3ae1, type: 2}
-  - {fileID: 11400000, guid: 72671b6e2943a894cbf34d8f5d1791f7, type: 2}
-  - {fileID: 11400000, guid: 6fb14156046f21c418086f3bd50dd727, type: 2}
-  - {fileID: 11400000, guid: 4dbe821628dc88143809182adc8d4c8f, type: 2}
-  - {fileID: 11400000, guid: 6f19e404c91fbad4c9f96f47ea6cb04b, type: 2}
+  - {fileID: 11400000, guid: 0657bbb24527a4f45b65359dd271b28f, type: 2}
+  - {fileID: 11400000, guid: 6de9b697abbadef4bbf01f52dbfae645, type: 2}
+  - {fileID: 11400000, guid: 9c42518ad5f91274b9977948d79a0e17, type: 2}
+  - {fileID: 11400000, guid: 2abdf32a9143d594b8fea8b1e22c6c6a, type: 2}
+  - {fileID: 11400000, guid: 6ba2dd081f785594195633383a49b4be, type: 2}
