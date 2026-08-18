@@ -108,6 +108,7 @@ MonoBehaviour:
   dayCloud: {fileID: 21300000, guid: de7da1dcdac3b65499ec68d8a7002cfe, type: 3}
   nightCloud: {fileID: 21300000, guid: bfb477971fd64b947ad240b572c7676e, type: 3}
   cloudSpeed: 1
+  cycleLength: 200
   despawnX: -9.74
   spawnX: 10.05
   minY: 2

@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class CycleMover : MonoBehaviour
 {
+    public static CycleMover instance;
     public SpriteRenderer celestialRenderer;
     public Sprite sunSprite;
     public Sprite moonSprite;
@@ -11,7 +12,10 @@ public class CycleMover : MonoBehaviour
     public float skyY = 4f;             // height in the sky
 
     private bool _lastWasSun = true;
-
+    void Awake()
+    {
+        instance = this;
+    }
     void Update()
     {
         // how far through the current crossing (0 = just entered right, 1 = about to exit left)
@@ -31,5 +35,11 @@ public class CycleMover : MonoBehaviour
             _lastWasSun = shouldBeSun;
             celestialRenderer.sprite = shouldBeSun ? sunSprite : moonSprite;
         }
+    }
+
+    public bool ismoonUp()
+    {
+        int crossingNumber = (int)(Scoremanager.instance._score / cycleLength);
+        return (crossingNumber % 2 == 1);
     }
 }
