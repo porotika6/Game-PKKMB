@@ -6,6 +6,7 @@ public class ScoreManager : MonoBehaviour
     public static ScoreManager instance;
     public float pointpersecond = 0f;
     public TMP_Text scoretext;
+    public TMP_Text highScoreText;
     public float _score;
     public float gameSpeed = 5f;
     float speedBoost = 2f;
@@ -16,6 +17,7 @@ public class ScoreManager : MonoBehaviour
     void Awake()
     {
         instance = this;
+        if(PlayerPrefs.HasKey("HighScore")) highScoreText.text = $"HighScore: {PlayerPrefs.GetFloat("HighScore")}";
     }
 
     // Update is called once per frame
@@ -23,6 +25,9 @@ public class ScoreManager : MonoBehaviour
     {
         _score += pointpersecond * Time.deltaTime;
         scoretext.text = "Score: " + Mathf.FloorToInt(_score);
+
+        if(PlayerPrefs.GetFloat("HighScore") <= _score)
+            HighScore();
 
         if (_score >= _nextMilestone)
         {
@@ -32,9 +37,13 @@ public class ScoreManager : MonoBehaviour
             Debug.Log("Game speed Increased to:" + gameSpeed);
         }
     }
-
     public void AddScore(int amount)
     {
         _score += amount;
+    }
+    public void HighScore()
+    {
+        highScoreText.text = "High score: " + Mathf.FloorToInt(_score);
+        PlayerPrefs.SetFloat("HighScore", Mathf.FloorToInt(_score));
     }
 }
