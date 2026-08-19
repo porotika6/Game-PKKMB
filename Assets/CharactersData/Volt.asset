@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Volt
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterName: Volt
-  popupDescription: Halo, aku Volt maskot dari prodi Pendidikan Teknik Elektronika
+  popupDescription: "Halo, aku Volt maskot dari prodi \nPendidikan Teknik Elektronika"
   icon: {fileID: 21300000, guid: d87241f3683492942b5fc25e79ef7c90, type: 3}
+  color: {r: 0.49411765, g: 0.8509804, b: 0.3372549, a: 1}
   gameplayPrefab: {fileID: 0}

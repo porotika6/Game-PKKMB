@@ -1,9 +1,9 @@
 using UnityEngine;
 using TMPro;
 
-public class Scoremanager : MonoBehaviour
+public class ScoreManager : MonoBehaviour
 {
-    public static Scoremanager instance;
+    public static ScoreManager instance;
     public float pointpersecond = 0f;
     public TMP_Text scoretext;
     public float _score;

@@ -7,7 +7,7 @@ public class GroundLoop : MonoBehaviour
 
     void Update()
     {
-        float Speed = Scoremanager.instance.gameSpeed;
+        float Speed = ScoreManager.instance.gameSpeed;
         transform.Translate(Vector2.left * Speed * Time.deltaTime);
 
         if (transform.position.x <= resetX)

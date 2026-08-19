@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 5d0068f2a26c15c4e9f20ee3fb389bf3
+guid: 0d7ce0755c142234cbe34d9f973f552a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3933147079387067967
-    second: NEXA STI_0
-  - first:
-      213: 3625252054176571712
-    second: NEXA STI_1
+      213: 2955675294773621344
+    second: Auto_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -116,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: NEXA STI_0
+      name: Auto_0
       rect:
         serializedVersion: 2
-        x: 136
-        y: 189
-        width: 1363
-        height: 1816
+        x: 91
+        y: 3
+        width: 320
+        height: 497
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,30 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1c9c4cbe197aa69c0800000000000000
-      internalID: -3933147079387067967
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: NEXA STI_1
-      rect:
-        serializedVersion: 2
-        x: 1513
-        y: 1311
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 041237e298b7f4230800000000000000
-      internalID: 3625252054176571712
+      spriteID: 0623160550ba40920800000000000000
+      internalID: 2955675294773621344
       vertices: []
       indices: 
       edges: []
@@ -173,8 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      NEXA STI_0: -3933147079387067967
-      NEXA STI_1: 3625252054176571712
+      Auto_0: 2955675294773621344
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

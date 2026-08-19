@@ -10,9 +10,9 @@ public class Jump_Bonus : MonoBehaviour
         if (other.CompareTag("Player") && !_scored)
         {
             _scored = true;
-          Debug.Log("Before: " + Scoremanager.instance._score);
-          Scoremanager.instance.AddScore(bonusScore);
-          Debug.Log("After: " + Scoremanager.instance._score);
+          Debug.Log("Before: " + ScoreManager.instance._score);
+          ScoreManager.instance.AddScore(bonusScore);
+          Debug.Log("After: " + ScoreManager.instance._score);
         }
     }
 }

@@ -18,21 +18,21 @@ public class BackgroundManager : MonoBehaviour
     }
     // Update is called once per frame
     void Update()
-  {
-       float alpha = Mathf.PingPong(Scoremanager.instance._score / cycleLength, 1f);         
-       bool goingToDay = alpha < _lastAlpha;
-        _lastAlpha = alpha;
-       
-       nightSky.color = new Color(nightSky.color.r, nightSky.color.g, nightSky.color.b, alpha);
-       nightBuilding.color = new Color(nightBuilding.color.r, nightBuilding.color.g, nightBuilding.color.b, alpha);
-       
-       float lightValue = alpha;
+    {
+        float alpha = Mathf.PingPong(ScoreManager.instance._score / cycleLength, 1f);         
+        bool goingToDay = alpha < _lastAlpha;
+            _lastAlpha = alpha;
+
+        nightSky.color = new Color(nightSky.color.r, nightSky.color.g, nightSky.color.b, alpha);
+        nightBuilding.color = new Color(nightBuilding.color.r, nightBuilding.color.g, nightBuilding.color.b, alpha);
+
+        float lightValue = alpha;
         if (goingToDay)
-           lightValue = Mathf.Pow(alpha, 0.2f);
+            lightValue = Mathf.Pow(alpha, 0.2f);
 
-       globalLight.intensity = Mathf.Lerp(dayLightIntensity, nightLightIntensity, lightValue);
+        globalLight.intensity = Mathf.Lerp(dayLightIntensity, nightLightIntensity, lightValue);
 
-  }
+    }
 
     public bool isNight()
     {

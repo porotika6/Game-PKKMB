@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 0d7ce0755c142234cbe34d9f973f552a
+guid: 8494a9e57b9538d4485657b937013b07
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8745208807048946264
-    second: AUTO_ TRO _0
-  - first:
-      213: -1580372454455758881
-    second: AUTO_ TRO _1
+      213: 8229562944227886484
+    second: Pix_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -116,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: AUTO_ TRO _0
+      name: Pix_0
       rect:
         serializedVersion: 2
-        x: 404
-        y: 268
-        width: 7
-        height: 23
+        x: 77
+        y: 5
+        width: 328
+        height: 481
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,30 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8adda319ce6c2a680800000000000000
-      internalID: -8745208807048946264
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AUTO_ TRO _1
-      rect:
-        serializedVersion: 2
-        x: 405
-        y: 190
-        width: 1183
-        height: 1849
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fdf2a5730a3611ae0800000000000000
-      internalID: -1580372454455758881
+      spriteID: 495cb6b45e7453270800000000000000
+      internalID: 8229562944227886484
       vertices: []
       indices: 
       edges: []
@@ -173,8 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      AUTO_ TRO _0: -8745208807048946264
-      AUTO_ TRO _1: -1580372454455758881
+      Pix_0: 8229562944227886484
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

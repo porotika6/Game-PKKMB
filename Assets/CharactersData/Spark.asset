@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Spark
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterName: Spark
-  popupDescription: 'Halo, aku Spark maskot dari prodi Pendidikan Teknik Elektro '
+  popupDescription: "Halo, aku Spark maskot dari prodi \nPendidikan Teknik Elektro "
   icon: {fileID: 21300000, guid: d0c7cec0892a2ac41bf942b79efb0ff7, type: 3}
+  color: {r: 0.9764706, g: 0.4509804, b: 0, a: 1}
   gameplayPrefab: {fileID: 0}

@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: d0c7cec0892a2ac41bf942b79efb0ff7
+guid: d87241f3683492942b5fc25e79ef7c90
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3404498056352637315
-    second: SPARK_elektro_20260813203726_0
-  - first:
-      213: 4214112499740597392
-    second: SPARK_elektro_20260813203726_1
-  - first:
-      213: 8065763996543328674
-    second: SPARK_elektro_20260813203726_2
+      213: 3103412759764717223
+    second: Volt_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -119,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SPARK_elektro_20260813203726_0
+      name: Volt_0
       rect:
         serializedVersion: 2
-        x: 142
-        y: 504
-        width: 1489
-        height: 1502
+        x: 7
+        y: 13
+        width: 489
+        height: 477
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,52 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3812867c1f43f3f20800000000000000
-      internalID: 3404498056352637315
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SPARK_elektro_20260813203726_1
-      rect:
-        serializedVersion: 2
-        x: 1649
-        y: 1983
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 09c529ebdf88b7a30800000000000000
-      internalID: 4214112499740597392
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SPARK_elektro_20260813203726_2
-      rect:
-        serializedVersion: 2
-        x: 1764
-        y: 1624
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2a1a910ee995fef60800000000000000
-      internalID: 8065763996543328674
+      spriteID: 7aec0316679811b20800000000000000
+      internalID: 3103412759764717223
       vertices: []
       indices: 
       edges: []
@@ -198,9 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      SPARK_elektro_20260813203726_0: 3404498056352637315
-      SPARK_elektro_20260813203726_1: 4214112499740597392
-      SPARK_elektro_20260813203726_2: 8065763996543328674
+      Volt_0: 3103412759764717223
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

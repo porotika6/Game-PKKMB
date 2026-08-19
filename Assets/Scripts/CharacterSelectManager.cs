@@ -17,6 +17,7 @@ public class CharacterSelectManager : MonoBehaviour
     public GameObject popupPanel;
     public Image popupCharacterImage;     // objek "Character" di dalam PopupPanel
     public TMP_Text popupDescriptionText; // objek "Description" di dalam PopupPanel
+    // public Image popupChararacterBackground;
     public Button popupSelectButton;      // tombol "Select" di dalam popup -> pilih karakter ini sementara
     public Button popupCloseButton;       // tombol "Close" di dalam popup -> batal, tutup popup saja
 
@@ -64,6 +65,7 @@ public class CharacterSelectManager : MonoBehaviour
         CharacterData c = database.characters[index];
         popupCharacterImage.sprite = c.icon;
         popupDescriptionText.text = c.popupDescription;
+        // popupChararacterBackground.color = c.color;
         popupPanel.SetActive(true);
     }
 

@@ -778,7 +778,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1001312983}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 03fbe79a88d5bf04f869bee41e7f9bad, type: 3}
+  m_Script: {fileID: 11500000, guid: 287fdc6e58a432f44b85febf549cebf3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Scoremanager
   pointpersecond: 10
@@ -1402,6 +1402,7 @@ MonoBehaviour:
   dayLightIntensity: 1
   nightLightIntensity: 0.06
   cycleLength: 200
+  nightActive: 1
 --- !u!1 &1446613048
 GameObject:
   m_ObjectHideFlags: 0

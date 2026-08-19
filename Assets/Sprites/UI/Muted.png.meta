@@ -1,13 +1,16 @@
 fileFormatVersion: 2
-guid: e30cfd4a2a72ac846b9316927072c400
+guid: 449e7cb3cc7bc844b99c69dcbb4fbbf1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5876054514703853667
-    second: PIX_PTIKpng_0
+      213: 6033623572040932455
+    second: Muted_0
   - first:
-      213: 1370948185959492752
-    second: PIX_PTIKpng_1
+      213: 1888340276231854
+    second: Muted_1
+  - first:
+      213: -4894337958895699801
+    second: Muted_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -49,7 +52,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -78,7 +81,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -116,13 +119,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PIX_PTIKpng_0
+      name: Muted_0
       rect:
         serializedVersion: 2
-        x: 267
-        y: 299
-        width: 700
-        height: 949
+        x: 12
+        y: 18
+        width: 189
+        height: 220
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +134,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d971f323d8f047ea0800000000000000
-      internalID: -5876054514703853667
+      spriteID: 76c5ce7dbacbbb350800000000000000
+      internalID: 6033623572040932455
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PIX_PTIKpng_1
+      name: Muted_1
       rect:
         serializedVersion: 2
-        x: 1023
-        y: 505
-        width: 8
-        height: 8
+        x: 175
+        y: 70
+        width: 39
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,8 +156,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 09ce49d8c16960310800000000000000
-      internalID: 1370948185959492752
+      spriteID: eae316b7f65b60000800000000000000
+      internalID: 1888340276231854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muted_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 48
+        width: 48
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8bf45ce81d31cb0800000000000000
+      internalID: -4894337958895699801
       vertices: []
       indices: 
       edges: []
@@ -163,7 +188,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -173,8 +198,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      PIX_PTIKpng_0: -5876054514703853667
-      PIX_PTIKpng_1: 1370948185959492752
+      Muted_0: 6033623572040932455
+      Muted_1: 1888340276231854
+      Muted_2: -4894337958895699801
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
