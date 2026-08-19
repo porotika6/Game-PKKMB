@@ -1402,7 +1402,6 @@ MonoBehaviour:
   dayLightIntensity: 1
   nightLightIntensity: 0.06
   cycleLength: 200
-  nightActive: 1
 --- !u!1 &1446613048
 GameObject:
   m_ObjectHideFlags: 0
@@ -1668,6 +1667,8 @@ MonoBehaviour:
   - {fileID: 4904650279030266748, guid: b530ec902cba79d4fab046efcd249be5, type: 3}
   - {fileID: 7090111611606980380, guid: 1e19d47b28d10c34ea8b5fcb8eae5620, type: 3}
   - {fileID: 4246864799170725051, guid: b4603c4d5eb17d64c8acd6dc80e11f29, type: 3}
+  coinPrefab: {fileID: 654340286133703219, guid: a094fc98753f6424484f8aeb06a4cd40, type: 3}
+  coinSpawnChance: 0.15
   spawnX: 10
   minDelay: 3
   maxDelay: 5
