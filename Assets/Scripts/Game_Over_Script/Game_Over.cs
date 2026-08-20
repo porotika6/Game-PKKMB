@@ -13,12 +13,19 @@ public class Game_Over : MonoBehaviour
     public float fadeDuration = 1f;
 
     private bool _isGameOver = false;
+    private AudioSource _bgmSource;
 
     void Awake()
     {
         instance = this;
     }
-      public void GameOver()
+    void Start()
+    {
+        GameObject bgmObject = GameObject.FindWithTag("BGM");
+
+        if (bgmObject != null) _bgmSource = bgmObject.GetComponent<AudioSource>();
+    }
+    public void GameOver()
     {
         if (_isGameOver) return;   // biar gak jalan dua kali
         _isGameOver = true;
@@ -27,6 +34,8 @@ public class Game_Over : MonoBehaviour
     private IEnumerator GameOverSequence()
     {
         Time.timeScale = 0f;
+        ScoreManager.instance.SaveHighScore();
+        if(_bgmSource != null) _bgmSource.Stop();
         ScoreManager.instance.gameSpeed = 0f;
         Debug.Log("Transition null? " + (transition == null)); 
         transition.Play("Transistion anim");                   // suruh animator mainin fade
@@ -36,7 +45,6 @@ public class Game_Over : MonoBehaviour
         gameOverPanel.SetActive(true);
         GameOverText.text = "Game Over";
         finalScoreText.text = "Score: " + Mathf.FloorToInt(ScoreManager.instance._score);
-       
     }
 
 }

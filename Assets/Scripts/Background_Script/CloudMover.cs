@@ -26,11 +26,12 @@ public class CloudMover : MonoBehaviour
             transform.position = new Vector3(randomX, randomY, transform.position.z);
 
         }
+        if (Time.timeScale == 0f) return;
         float rawCycle = ScoreManager.instance._score / cycleLength;
         float t = rawCycle % 1f;
         float alpha = 1f - Mathf.Abs(t * 2f - 1f);
 
-        Debug.Log($"score:{ScoreManager.instance._score:F0} rawCycle:{rawCycle:F3} t:{t:F3} alpha:{alpha:F3}");
+        // Debug.Log($"score:{ScoreManager.instance._score:F0} rawCycle:{rawCycle:F3} t:{t:F3} alpha:{alpha:F3}");
         
         bool shouldBeNight = (((int) rawCycle) % 2 == 1);
         if (shouldBeNight != _isnightclouds && alpha < 0.05f)

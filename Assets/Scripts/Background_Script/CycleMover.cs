@@ -18,6 +18,7 @@ public class CycleMover : MonoBehaviour
     }
     void Update()
     {
+        if (Time.timeScale == 0f) return;
         // how far through the current crossing (0 = just entered right, 1 = about to exit left)
         float progress = (ScoreManager.instance._score % cycleLength) / cycleLength;
 

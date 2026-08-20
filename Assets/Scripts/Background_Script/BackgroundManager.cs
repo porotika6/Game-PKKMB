@@ -19,6 +19,7 @@ public class BackgroundManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if(Time.timeScale == 0f) return;
         float alpha = Mathf.PingPong(ScoreManager.instance._score / cycleLength, 1f);         
         bool goingToDay = alpha < _lastAlpha;
             _lastAlpha = alpha;
