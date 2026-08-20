@@ -1,9 +1,10 @@
+using System;
 using UnityEngine;
 
 public class Coin : MonoBehaviour
 {
     [SerializeField] private int _value;
-    // private bool _hasTriggered;
+    [SerializeField] private float despawnX = -15f;
     float speed;
 
     void Awake()
@@ -18,12 +19,16 @@ public class Coin : MonoBehaviour
     {
         if(other.CompareTag("Player"))
         {
+            Debug.Log("COIN TERAMBIL");
+
             ScoreManager.instance.AddScore(_value);
+            ScoreManager.instance.CoinCollected();
             Destroy(gameObject);
         }
     }
     private void MoveToLeft()
     {
         transform.Translate(Vector2.left * speed * Time.deltaTime);
+        if(transform.position.x < despawnX) Destroy(gameObject);
     }    
 }

@@ -1,8 +1,10 @@
+using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
 public class Player_Jump_Input : MonoBehaviour
 {
+    public event Action OnJump;
     public LayerMask GroundLayers;
     public float JumpForce = 5f;
     private Rigidbody2D _rb;
@@ -42,6 +44,6 @@ public class Player_Jump_Input : MonoBehaviour
     private void Jump()
     {
         _rb.linearVelocity= new Vector2(_rb.linearVelocityX, JumpForce);
-        
+        OnJump?.Invoke();
     }
 }

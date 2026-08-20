@@ -1,9 +1,11 @@
 using UnityEngine;
 using TMPro;
+using System;
 
 public class ScoreManager : MonoBehaviour
 {
     public static ScoreManager instance;
+    public event Action OnCoinTrigger;
     public float pointpersecond = 0f;
     public TMP_Text scoretext;
     public TMP_Text highScoreText;
@@ -18,6 +20,7 @@ public class ScoreManager : MonoBehaviour
     void Awake()
     {
         instance = this;
+
         _highScore = PlayerPrefs.GetFloat("HighScore", 0f);
         highScoreText.text = $"High score: {Mathf.FloorToInt(_highScore)}";
     }
@@ -45,6 +48,12 @@ public class ScoreManager : MonoBehaviour
     public void AddScore(int amount)
     {
         _score += amount;
+    }
+    public void CoinCollected()
+    {
+        Debug.Log("COIN COLLECTED EVENT DIPANGGIL");
+
+        OnCoinTrigger?.Invoke();
     }
     public void SaveHighScore()
     {

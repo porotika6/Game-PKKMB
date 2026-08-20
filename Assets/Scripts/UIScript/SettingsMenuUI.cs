@@ -30,6 +30,10 @@ public class SettingsMenuUI : MonoBehaviour
             _sfxValue.text = Mathf.RoundToInt(sfxValue * 100).ToString();
         }
     }
+    void Update()
+    {
+        if(!PauseMenuUI.instance.IsPaused && gameObject.activeSelf) gameObject.SetActive(false);
+    }
     public void SetMusicVolume()
     {
         float volume = _musicSlider.value;
