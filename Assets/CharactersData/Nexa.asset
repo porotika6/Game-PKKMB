@@ -15,5 +15,4 @@ MonoBehaviour:
   characterName: Nexa
   popupDescription: "Halo, aku Nexa maskot dari prodi \nSistem Teknologi Informasi"
   icon: {fileID: 21300000, guid: 5d0068f2a26c15c4e9f20ee3fb389bf3, type: 3}
-  color: {r: 0, g: 0.6784314, b: 0.9372549, a: 1}
-  gameplayPrefab: {fileID: 0}
+  gameplayPrefab: {fileID: 42789016384494613, guid: a9253e530a36a4d42a76fe29d903ff03, type: 3}
