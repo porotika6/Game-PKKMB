@@ -15,6 +15,21 @@ public class SettingsMenuUI : MonoBehaviour
     [SerializeField] private Slider _sfxSlider;
     [SerializeField] private TextMeshProUGUI _sfxValue;
 
+    void Start()
+    {
+        if(_audioMixer.GetFloat("MusicParam", out float musicDb))
+        {
+            float musicValue = Mathf.Pow(10f, musicDb / 20);
+            _musicSlider.SetValueWithoutNotify(musicValue);
+            _musicValue.text = Mathf.RoundToInt(musicValue * 100).ToString();
+        }
+        if(_audioMixer.GetFloat("SFXParam", out float sfxDb))
+        {
+            float sfxValue = Mathf.Pow(10f, sfxDb / 20);
+            _sfxSlider.SetValueWithoutNotify(sfxValue);
+            _sfxValue.text = Mathf.RoundToInt(sfxValue * 100).ToString();
+        }
+    }
     public void SetMusicVolume()
     {
         float volume = _musicSlider.value;
