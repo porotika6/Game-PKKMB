@@ -12,6 +12,7 @@ public class PauseMenuUI : MonoBehaviour
 
     [SerializeField] private GameObject _pausePanel;
     [SerializeField] private GameObject _pauseButton;
+    [SerializeField] private GameObject _settingsPanel;
     [SerializeField] private AudioMixer _audioMixer;
 
     [Header("Resume Countdown")]
@@ -67,6 +68,7 @@ public class PauseMenuUI : MonoBehaviour
         _isPaused = false;
         _isCountingDown = true;
         _pausePanel.SetActive(false);
+        _settingsPanel.SetActive(false);
 
         if (_countdownPanel != null) _countdownPanel.SetActive(true);
 

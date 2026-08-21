@@ -14,10 +14,11 @@ public class Player_Jump_Input : MonoBehaviour
      private void Awake()
     {
         _rb = GetComponent<Rigidbody2D>();
+        InputSystem.actions.FindActionMap("Player").Enable();
+        _jumpAction = InputSystem.actions.FindAction("Jump");
     }
     private  void Start()
     {
-        _jumpAction = InputSystem.actions.FindAction("Jump");
     }
 
     // Update is called once per frame

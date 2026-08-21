@@ -32,7 +32,6 @@ public class PlayerEffect : MonoBehaviour
     }
     private void PlayCoinSFX()
     {
-        Debug.Log("PLAY COIN SFX TERPANGGIL");
         _sfxCoin.Play();
     }
     private void PlayJumpSFX()
