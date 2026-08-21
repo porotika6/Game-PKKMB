@@ -106,7 +106,7 @@ GameObject:
   - component: {fileID: 2255414781361704257}
   - component: {fileID: 1694752027940630956}
   m_Layer: 7
-  m_Name: Car 1 (1)
+  m_Name: Car 1 (1) 2
   m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -177,7 +177,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 3
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -7377779973571907883, guid: 78558a5d2f6f0274b85448783dede935, type: 3}
+  m_Sprite: {fileID: -7990813242764810775, guid: 4abfae4f6e13d9442b22f13b61034e5c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -281,7 +281,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 1.1384025, y: 1.3331829}
+  m_Offset: {x: 1.0805558, y: 1.3331829}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -291,5 +291,5 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 4.8400416, y: 2.2696607}
+  m_Size: {x: 4.72435, y: 2.2696607}
   m_EdgeRadius: 0
