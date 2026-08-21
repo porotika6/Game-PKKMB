@@ -14,7 +14,6 @@ public class Game_Over : MonoBehaviour
     public TMP_Text GameOverText; 
     public TMP_Text finalScoreText;  
     public TMP_Text highScoreText;
-    public TMP_Text newHighScoreText;
     public float fadeDuration = 1f;
 
     private bool _isGameOver = false;
@@ -41,28 +40,32 @@ public class Game_Over : MonoBehaviour
     {
         Time.timeScale = 0f;
 
-        bool isNewHighScore = ScoreManager.instance._score >= ScoreManager.instance.getHighScore();
+        bool isNewHighScore = ScoreManager.instance.Score >= ScoreManager.instance.HighScore;
     
         ScoreManager.instance.SaveHighScore();
         if(_bgmSource != null) _bgmSource.Stop();
         ScoreManager.instance.gameSpeed = 0f;
-        Debug.Log("Transition null? " + (transition == null)); 
         transition.Play("Transistion anim");                   // suruh animator mainin fade
         yield return new WaitForSecondsRealtime(fadeDuration);
         Debug.Log("Trigger kepanggil");
 
         gameOverPanel.SetActive(true);
         GameOverText.text = "Game Over";
-        newHighScoreText.gameObject.SetActive(isNewHighScore);
-        finalScoreText.text = "Score: " + Mathf.FloorToInt(ScoreManager.instance._score);
-        highScoreText.text = "High Score: " + Mathf.FloorToInt(ScoreManager.instance.getHighScore());
+        finalScoreText.text = "Score: " + Mathf.FloorToInt(ScoreManager.instance.Score);
+
+        if(isNewHighScore){
+            highScoreText.text = "<color = #FDC830> New </color> High Score: " + Mathf.FloorToInt(ScoreManager.instance.HighScore);
+        } else
+        {
+            highScoreText.text = "High Score: " + Mathf.FloorToInt(ScoreManager.instance.HighScore);
+        }
     }
     public void Replay()
     {
         Time.timeScale = 1f;
         SceneManager.LoadScene("SampleScene");
     }
-    public void exitToMainMenu()
+    public void ExitToMainMenu()
     {
         Time.timeScale = 1f;
         SceneManager.LoadScene("MainMenu");

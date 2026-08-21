@@ -9,12 +9,14 @@ public class ScoreManager : MonoBehaviour
     public float pointpersecond = 0f;
     public TMP_Text scoretext;
     public TMP_Text highScoreText;
-    public float _score;
     public float gameSpeed = 5f;
     float speedBoost = 2f;
     public float maxSpeed = 20f;
-    private int _nextMilestone = 500;
+    public float HighScore => _highScore;
+    public float Score => _score;
     private float _highScore;
+    private float _score;
+    private int _nextMilestone = 500;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Awake()
@@ -51,18 +53,11 @@ public class ScoreManager : MonoBehaviour
     }
     public void CoinCollected()
     {
-        Debug.Log("COIN COLLECTED EVENT DIPANGGIL");
-
         OnCoinTrigger?.Invoke();
     }
     public void SaveHighScore()
     {
         PlayerPrefs.SetFloat("HighScore", Mathf.FloorToInt(_highScore));
         PlayerPrefs.Save();
-    }
-
-    public float getHighScore()
-    {
-        return _highScore;
     }
 }

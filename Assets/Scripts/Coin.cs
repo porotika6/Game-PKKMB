@@ -19,8 +19,6 @@ public class Coin : MonoBehaviour
     {
         if(other.CompareTag("Player"))
         {
-            Debug.Log("COIN TERAMBIL");
-
             ScoreManager.instance.AddScore(_value);
             ScoreManager.instance.CoinCollected();
             Destroy(gameObject);

@@ -20,7 +20,7 @@ public class CycleMover : MonoBehaviour
     {
         if (Time.timeScale == 0f) return;
         // how far through the current crossing (0 = just entered right, 1 = about to exit left)
-        float progress = (ScoreManager.instance._score % cycleLength) / cycleLength;
+        float progress = (ScoreManager.instance.Score % cycleLength) / cycleLength;
 
         // slide from right to left based on progress (one direction, no bounce)
        float x = Mathf.Lerp(rightX, leftX, progress);
@@ -34,7 +34,7 @@ public class CycleMover : MonoBehaviour
 
 transform.position = new Vector3(finalX, skyY, transform.position.z);
         // figure out which crossing number we're on (0,1,2,3...) — even = sun, odd = moon
-        int crossingNumber = (int)(ScoreManager.instance._score / cycleLength);
+        int crossingNumber = (int)(ScoreManager.instance.Score / cycleLength);
         bool shouldBeSun = (crossingNumber % 2 == 0);
 
         // only swap the sprite when it changes (avoids swapping every frame)
@@ -47,7 +47,7 @@ transform.position = new Vector3(finalX, skyY, transform.position.z);
 
     public bool ismoonUp()
     {
-        int crossingNumber = (int)(ScoreManager.instance._score / cycleLength);
+        int crossingNumber = (int)(ScoreManager.instance.Score / cycleLength);
         return (crossingNumber % 2 == 1);
     }
 }
