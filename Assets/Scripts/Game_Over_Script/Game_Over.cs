@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using TMPro;
 using System.Collections;
 using System;
@@ -55,6 +56,20 @@ public class Game_Over : MonoBehaviour
         newHighScoreText.gameObject.SetActive(isNewHighScore);
         finalScoreText.text = "Score: " + Mathf.FloorToInt(ScoreManager.instance._score);
         highScoreText.text = "High Score: " + Mathf.FloorToInt(ScoreManager.instance.getHighScore());
+    }
+    public void Replay()
+    {
+        Time.timeScale = 1f;
+        SceneManager.LoadScene("SampleScene");
+    }
+    public void exitToMainMenu()
+    {
+        Time.timeScale = 1f;
+        SceneManager.LoadScene("MainMenu");
+    }
+    public void QuitGame()
+    {
+        Application.Quit();
     }
 
 }
