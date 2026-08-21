@@ -24,7 +24,8 @@ public class CycleMover : MonoBehaviour
 
         // slide from right to left based on progress (one direction, no bounce)
         float x = Mathf.Lerp(rightX, leftX, progress);
-        transform.position = new Vector3(x, skyY, transform.position.z);
+        float smoothX = Mathf.Lerp(transform.position.x, x, Time.deltaTime * 3f); 
+        transform.position = new Vector3(smoothX, skyY, transform.position.z);
 
         // figure out which crossing number we're on (0,1,2,3...) — even = sun, odd = moon
         int crossingNumber = (int)(ScoreManager.instance._score / cycleLength);

@@ -24,12 +24,16 @@ public class BackgroundManager : MonoBehaviour
         bool goingToDay = alpha < _lastAlpha;
             _lastAlpha = alpha;
 
+        float targetSkyAlpha = alpha;
+        float currentSkyAlpha = nightSky.color.a;
+        float smoothAlpha = Mathf.Lerp(currentSkyAlpha, targetSkyAlpha, Time.deltaTime * 3f);
+
         nightSky.color = new Color(nightSky.color.r, nightSky.color.g, nightSky.color.b, alpha);
         nightBuilding.color = new Color(nightBuilding.color.r, nightBuilding.color.g, nightBuilding.color.b, alpha);
 
         float lightValue = alpha;
         if (goingToDay)
-            lightValue = Mathf.Pow(alpha, 0.2f);
+            lightValue = Mathf.Pow(smoothAlpha, 0.2f);
 
         globalLight.intensity = Mathf.Lerp(dayLightIntensity, nightLightIntensity, lightValue);
 
