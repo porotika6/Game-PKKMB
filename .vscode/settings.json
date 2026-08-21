@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Game-PKKMB.slnx"
+    "dotnet.defaultSolution": "Game PKKMB.slnx"
 }
