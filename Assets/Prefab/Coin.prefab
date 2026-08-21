@@ -94,6 +94,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Coin
   _value: 10
+  despawnX: -12
 --- !u!95 &7648520058393997616
 Animator:
   serializedVersion: 7

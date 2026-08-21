@@ -1,11 +1,13 @@
 using UnityEngine;
 using TMPro;
 using System.Collections;
+using System;
 
 public class Game_Over : MonoBehaviour
 {
     public static Game_Over instance;
 
+    public event Action OnGameOver;
     public Animator transition;        // Image hitam full-screen buat transisi (alpha 0 di awal)
     public GameObject gameOverPanel;   
     public TMP_Text GameOverText; 
@@ -30,6 +32,7 @@ public class Game_Over : MonoBehaviour
         if (_isGameOver) return;   // biar gak jalan dua kali
         _isGameOver = true;
         StartCoroutine(GameOverSequence());
+        OnGameOver?.Invoke();
     }
     private IEnumerator GameOverSequence()
     {
