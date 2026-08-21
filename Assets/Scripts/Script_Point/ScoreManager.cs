@@ -60,4 +60,9 @@ public class ScoreManager : MonoBehaviour
         PlayerPrefs.SetFloat("HighScore", Mathf.FloorToInt(_highScore));
         PlayerPrefs.Save();
     }
+
+    public float getHighScore()
+    {
+        return _highScore;
+    }
 }

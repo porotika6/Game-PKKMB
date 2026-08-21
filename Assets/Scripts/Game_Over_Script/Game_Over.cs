@@ -12,6 +12,8 @@ public class Game_Over : MonoBehaviour
     public GameObject gameOverPanel;   
     public TMP_Text GameOverText; 
     public TMP_Text finalScoreText;  
+    public TMP_Text highScoreText;
+    public TMP_Text newHighScoreText;
     public float fadeDuration = 1f;
 
     private bool _isGameOver = false;
@@ -37,6 +39,9 @@ public class Game_Over : MonoBehaviour
     private IEnumerator GameOverSequence()
     {
         Time.timeScale = 0f;
+
+        bool isNewHighScore = ScoreManager.instance._score >= ScoreManager.instance.getHighScore();
+    
         ScoreManager.instance.SaveHighScore();
         if(_bgmSource != null) _bgmSource.Stop();
         ScoreManager.instance.gameSpeed = 0f;
@@ -47,7 +52,9 @@ public class Game_Over : MonoBehaviour
 
         gameOverPanel.SetActive(true);
         GameOverText.text = "Game Over";
+        newHighScoreText.gameObject.SetActive(isNewHighScore);
         finalScoreText.text = "Score: " + Mathf.FloorToInt(ScoreManager.instance._score);
+        highScoreText.text = "High Score: " + Mathf.FloorToInt(ScoreManager.instance.getHighScore());
     }
 
 }
