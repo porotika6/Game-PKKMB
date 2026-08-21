@@ -384,7 +384,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 260056948}
         m_TargetAssemblyTypeName: Game_Over, Assembly-CSharp
-        m_MethodName: exitToMainMenu
+        m_MethodName: ExitToMainMenu
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -850,7 +850,6 @@ MonoBehaviour:
   GameOverText: {fileID: 1194383248}
   finalScoreText: {fileID: 877350448}
   highScoreText: {fileID: 469338714}
-  newHighScoreText: {fileID: 469338714}
   fadeDuration: 0.8
 --- !u!1 &337554553
 GameObject:
@@ -3916,7 +3915,6 @@ MonoBehaviour:
   pointpersecond: 10
   scoretext: {fileID: 1875268381}
   highScoreText: {fileID: 1460416846}
-  _score: 0
   gameSpeed: 5
   maxSpeed: 20
 --- !u!4 &1001312985
@@ -5373,8 +5371,8 @@ RectTransform:
   m_Children:
   - {fileID: 369133498}
   - {fileID: 1434208780}
-  - {fileID: 260056947}
   - {fileID: 1784511887}
+  - {fileID: 260056947}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
