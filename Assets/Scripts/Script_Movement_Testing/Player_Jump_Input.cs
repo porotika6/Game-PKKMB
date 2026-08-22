@@ -17,10 +17,6 @@ public class Player_Jump_Input : MonoBehaviour
         InputSystem.actions.FindActionMap("Player").Enable();
         _jumpAction = InputSystem.actions.FindAction("Jump");
     }
-    private  void Start()
-    {
-    }
-
     // Update is called once per frame
     private void Update()
     {
@@ -36,15 +32,51 @@ public class Player_Jump_Input : MonoBehaviour
 
     private void GatherInput()
     {
-       if (_jumpAction.WasPressedThisFrame())
+        if (_jumpAction.WasPressedThisFrame() && Time.timeScale != 0f)
         {
-    Debug.Log($"Jump pressed → Grounded = {_isGrounded}");
-    if (_isGrounded) Jump();
+            // 1. Cek apakah sentuhan/klik mengenai UI Button
+            if (IsPointerOverUI())
+            {
+                // Jika ya, abaikan lompatan karena user sedang menekan UI
+                return;
+            }
+
+            Debug.Log($"Jump pressed → Grounded = {_isGrounded}");
+            if (_isGrounded) Jump();
         }
     }
     private void Jump()
     {
         _rb.linearVelocity= new Vector2(_rb.linearVelocityX, JumpForce);
         OnJump?.Invoke();
+    }
+    private bool IsPointerOverUI()
+    {
+        if (UnityEngine.EventSystems.EventSystem.current == null) return false;
+
+        // Ambil posisi pointer saat ini berdasarkan perangkat yang aktif
+        Vector2 pointerPosition = Vector2.zero;
+        if (Pointer.current != null)
+        {
+            pointerPosition = Pointer.current.position.ReadValue();
+        }
+        else if (Touchscreen.current != null && Touchscreen.current.touches.Count > 0)
+        {
+            pointerPosition = Touchscreen.current.touches[0].position.ReadValue();
+        }
+        else
+        {
+            return false;
+        }
+
+        // Tembakkan Raycast khusus UI pada posisi pointer tersebut
+        var eventData = new UnityEngine.EventSystems.PointerEventData(UnityEngine.EventSystems.EventSystem.current);
+        eventData.position = pointerPosition;
+
+        System.Collections.Generic.List<UnityEngine.EventSystems.RaycastResult> results = new();
+        UnityEngine.EventSystems.EventSystem.current.RaycastAll(eventData, results);
+
+        // Kembalikan nilai true hanya jika raycast menyentuh objek UI
+        return results.Count > 0;
     }
 }

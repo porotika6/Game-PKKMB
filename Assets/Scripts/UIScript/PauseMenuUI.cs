@@ -55,6 +55,7 @@ public class PauseMenuUI : MonoBehaviour
     public void ResumeGame()
     {
         if(Countdown.instance != null && Countdown.instance.IsCountingDown) return;
+        _pauseButton.SetActive(true);
         StartCoroutine(ResumeAfterhCountdown());
     }
     private IEnumerator ResumeAfterhCountdown()
@@ -63,7 +64,6 @@ public class PauseMenuUI : MonoBehaviour
         yield return StartCoroutine(Countdown.instance.StartCountdown());
 
         _isPaused = false;
-        _pauseButton.SetActive(true);
         if (_bgmSource != null) _bgmSource.UnPause();
     }
     public void BackToMainMenu(string sceneName)

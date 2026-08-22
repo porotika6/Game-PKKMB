@@ -149,7 +149,7 @@ MonoBehaviour:
   GroundLayers:
     serializedVersion: 2
     m_Bits: 64
-  JumpForce: 5
+  JumpForce: 5.5
 --- !u!114 &7775286886936886030
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -40,7 +40,7 @@ public class Game_Over : MonoBehaviour
     {
         Time.timeScale = 0f;
 
-        bool isNewHighScore = ScoreManager.instance.Score >= ScoreManager.instance.HighScore;
+        bool isNewHighScore = ScoreManager.instance.Score > PlayerPrefs.GetFloat("HighScore");
     
         ScoreManager.instance.SaveHighScore();
         if(_bgmSource != null) _bgmSource.Stop();
@@ -54,7 +54,7 @@ public class Game_Over : MonoBehaviour
         finalScoreText.text = "Score: " + Mathf.FloorToInt(ScoreManager.instance.Score);
 
         if(isNewHighScore){
-            highScoreText.text = "<color = #FDC830> New </color> High Score: " + Mathf.FloorToInt(ScoreManager.instance.HighScore);
+            highScoreText.text = "New High Score: " + Mathf.FloorToInt(ScoreManager.instance.HighScore);
         } else
         {
             highScoreText.text = "High Score: " + Mathf.FloorToInt(ScoreManager.instance.HighScore);
@@ -63,7 +63,7 @@ public class Game_Over : MonoBehaviour
     public void Replay()
     {
         Time.timeScale = 1f;
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("PlayScene");
     }
     public void ExitToMainMenu()
     {
