@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: d4f0f8262fc1b2f44bd2089fb7948dca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6419259654836775397
+    second: 7-RUN-ELEKTRO_0
+  - first:
+      213: 7435562306593183094
+    second: 7-RUN-ELEKTRO_1
+  - first:
+      213: 8153351943028391318
+    second: 7-RUN-ELEKTRO_2
+  - first:
+      213: -7457993252896446115
+    second: 7-RUN-ELEKTRO_3
+  - first:
+      213: 1720714940783862212
+    second: 7-RUN-ELEKTRO_4
+  - first:
+      213: -2005929630156174381
+    second: 7-RUN-ELEKTRO_5
+  - first:
+      213: -6756719693904948927
+    second: 7-RUN-ELEKTRO_6
+  - first:
+      213: -7583111153001093067
+    second: 7-RUN-ELEKTRO_7
+  - first:
+      213: 8260010850861077963
+    second: 7-RUN-ELEKTRO_8
+  - first:
+      213: -1567600475803684370
+    second: 7-RUN-ELEKTRO_9
+  - first:
+      213: 6585331022748702610
+    second: 7-RUN-ELEKTRO_10
+  - first:
+      213: 8551650562985295720
+    second: 7-RUN-ELEKTRO_11
+  - first:
+      213: -7477758280706954197
+    second: 7-RUN-ELEKTRO_12
+  - first:
+      213: -810202001315232243
+    second: 7-RUN-ELEKTRO_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 7-RUN-ELEKTRO_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 1659
+        height: 2048
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9ea8735aac51950800000000000000
+      internalID: 6419259654836775397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-RUN-ELEKTRO_1
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1886
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67555c5c58c603760800000000000000
+      internalID: 7435562306593183094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-RUN-ELEKTRO_2
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1733
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69db2f4d466862170800000000000000
+      internalID: 8153351943028391318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-RUN-ELEKTRO_3
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 1780
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59e8df86a2ef7890800000000000000
+      internalID: -7457993252896446115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-RUN-ELEKTRO_4
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1723
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c121253f1531e710800000000000000
+      internalID: 1720714940783862212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-RUN-ELEKTRO_5
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 1608
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db4c1611a18924e0800000000000000
+      internalID: -2005929630156174381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-RUN-ELEKTRO_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1377
+        width: 47
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141d8edac3f4b32a0800000000000000
+      internalID: -6756719693904948927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-RUN-ELEKTRO_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1435
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5382119559063c690800000000000000
+      internalID: -7583111153001093067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-RUN-ELEKTRO_8
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1291
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5527efa1471a270800000000000000
+      internalID: 8260010850861077963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-RUN-ELEKTRO_9
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 1243
+        width: 54
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1fcf93ca3ce3ae0800000000000000
+      internalID: -1567600475803684370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-RUN-ELEKTRO_10
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1262
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297db43bcabc36b50800000000000000
+      internalID: 6585331022748702610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-RUN-ELEKTRO_11
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 866
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ff102e0e09da670800000000000000
+      internalID: 8551650562985295720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-RUN-ELEKTRO_12
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 775
+        width: 16
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ce93a667aa93890800000000000000
+      internalID: -7477758280706954197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-RUN-ELEKTRO_13
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 379
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d068b4b829591c4f0800000000000000
+      internalID: -810202001315232243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      7-RUN-ELEKTRO_0: 6419259654836775397
+      7-RUN-ELEKTRO_1: 7435562306593183094
+      7-RUN-ELEKTRO_10: 6585331022748702610
+      7-RUN-ELEKTRO_11: 8551650562985295720
+      7-RUN-ELEKTRO_12: -7477758280706954197
+      7-RUN-ELEKTRO_13: -810202001315232243
+      7-RUN-ELEKTRO_2: 8153351943028391318
+      7-RUN-ELEKTRO_3: -7457993252896446115
+      7-RUN-ELEKTRO_4: 1720714940783862212
+      7-RUN-ELEKTRO_5: -2005929630156174381
+      7-RUN-ELEKTRO_6: -6756719693904948927
+      7-RUN-ELEKTRO_7: -7583111153001093067
+      7-RUN-ELEKTRO_8: 8260010850861077963
+      7-RUN-ELEKTRO_9: -1567600475803684370
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

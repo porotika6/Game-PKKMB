@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: dcf6fa177a6fae140ad996f84e4d06e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6748360958963449339
+    second: 2-IDLE-ELEKTRO.png_0
+  - first:
+      213: 7621761299023990473
+    second: 2-IDLE-ELEKTRO.png_1
+  - first:
+      213: -9133295513963590529
+    second: 2-IDLE-ELEKTRO.png_2
+  - first:
+      213: 682791711996035809
+    second: 2-IDLE-ELEKTRO.png_3
+  - first:
+      213: 7138763837992457795
+    second: 2-IDLE-ELEKTRO.png_4
+  - first:
+      213: 5267569904165683262
+    second: 2-IDLE-ELEKTRO.png_5
+  - first:
+      213: 144096307155483189
+    second: 2-IDLE-ELEKTRO.png_6
+  - first:
+      213: -5751353591762077204
+    second: 2-IDLE-ELEKTRO.png_7
+  - first:
+      213: 790114953880940695
+    second: 2-IDLE-ELEKTRO.png_8
+  - first:
+      213: -6670357592374925808
+    second: 2-IDLE-ELEKTRO.png_9
+  - first:
+      213: 82471219495207696
+    second: 2-IDLE-ELEKTRO.png_10
+  - first:
+      213: 8145915218356324521
+    second: 2-IDLE-ELEKTRO.png_11
+  - first:
+      213: -2483547607890529262
+    second: 2-IDLE-ELEKTRO.png_12
+  - first:
+      213: 7535952734554140623
+    second: 2-IDLE-ELEKTRO.png_13
+  - first:
+      213: -5766008415096072992
+    second: 2-IDLE-ELEKTRO.png_14
+  - first:
+      213: -5812820404604754044
+    second: 2-IDLE-ELEKTRO.png_15
+  - first:
+      213: -9095519776851878708
+    second: 2-IDLE-ELEKTRO.png_16
+  - first:
+      213: 4773078022130551283
+    second: 2-IDLE-ELEKTRO.png_17
+  - first:
+      213: -2071876757399707546
+    second: 2-IDLE-ELEKTRO.png_18
+  - first:
+      213: -7345472384752327720
+    second: 2-IDLE-ELEKTRO.png_19
+  - first:
+      213: -4157032305852815012
+    second: 2-IDLE-ELEKTRO.png_20
+  - first:
+      213: -8977041373729081272
+    second: 2-IDLE-ELEKTRO.png_21
+  - first:
+      213: -172095209002706493
+    second: 2-IDLE-ELEKTRO.png_22
+  - first:
+      213: 2185568245292743873
+    second: 2-IDLE-ELEKTRO.png_23
+  - first:
+      213: -3996253537946571636
+    second: 2-IDLE-ELEKTRO.png_24
+  - first:
+      213: 3227255224884054535
+    second: 2-IDLE-ELEKTRO.png_25
+  - first:
+      213: 326116437410537411
+    second: 2-IDLE-ELEKTRO.png_26
+  - first:
+      213: -6313706433280574799
+    second: 2-IDLE-ELEKTRO.png_27
+  - first:
+      213: -7315313319476906596
+    second: 2-IDLE-ELEKTRO.png_28
+  - first:
+      213: -4271186084649052039
+    second: 2-IDLE-ELEKTRO.png_29
+  - first:
+      213: -661580264515524716
+    second: 2-IDLE-ELEKTRO.png_30
+  - first:
+      213: -7233358699964259980
+    second: 2-IDLE-ELEKTRO.png_31
+  - first:
+      213: 6340803949913314456
+    second: 2-IDLE-ELEKTRO.png_32
+  - first:
+      213: 3192207207178889616
+    second: 2-IDLE-ELEKTRO.png_33
+  - first:
+      213: -5763695238532049192
+    second: 2-IDLE-ELEKTRO.png_34
+  - first:
+      213: -5710308725204971459
+    second: 2-IDLE-ELEKTRO.png_35
+  - first:
+      213: -8608697757616783531
+    second: 2-IDLE-ELEKTRO.png_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2023
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5028ed056710952a0800000000000000
+      internalID: -6748360958963449339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2023
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce0527058fe5c960800000000000000
+      internalID: 7621761299023990473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_2
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 0
+        width: 1257
+        height: 2048
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c088dce14004180800000000000000
+      internalID: -9133295513963590529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_3
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 2023
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2ca19c173c97900800000000000000
+      internalID: 682791711996035809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2008
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346d1fa43ebf11360800000000000000
+      internalID: 7138763837992457795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_5
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1993
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3085574bea2a1940800000000000000
+      internalID: 5267569904165683262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1993
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ab271f3deeff100800000000000000
+      internalID: 144096307155483189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_7
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1977
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9ba5951661f20b0800000000000000
+      internalID: -5751353591762077204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_8
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1719
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7903cc54d5d07fa00800000000000000
+      internalID: 790114953880940695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_9
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1673
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016a9ad5c112e63a0800000000000000
+      internalID: -6670357592374925808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1673
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013843e132ff42100800000000000000
+      internalID: 82471219495207696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_11
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1658
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8c3907bba1c0170800000000000000
+      internalID: 8145915218356324521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_12
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1650
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214f9e8eb9aa88dd0800000000000000
+      internalID: -2483547607890529262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_13
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1628
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfab3bb515159860800000000000000
+      internalID: 7535952734554140623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_14
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1597
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4194665e50bffa0800000000000000
+      internalID: -5766008415096072992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_15
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1399
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4872460c3a6b45fa0800000000000000
+      internalID: -5812820404604754044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 791
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc143df3f836c180800000000000000
+      internalID: -9095519776851878708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 776
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9c05a1c216d3240800000000000000
+      internalID: 4773078022130551283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_18
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 677
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6606dc001173f33e0800000000000000
+      internalID: -2071876757399707546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 684
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d36567b8c3af0a90800000000000000
+      internalID: -7345472384752327720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_20
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 684
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59e1d984214f46c0800000000000000
+      internalID: -4157032305852815012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 289
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848b4e8de642b6380800000000000000
+      internalID: -8977041373729081272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_22
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 258
+        width: 25
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9d8d7b1589c9df0800000000000000
+      internalID: -172095209002706493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 258
+        width: 25
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc3c0d4db2b45e10800000000000000
+      internalID: 2185568245292743873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_24
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 289
+        width: 9
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ceb4e84947a88c0800000000000000
+      internalID: -3996253537946571636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 304
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70accbe378389cc20800000000000000
+      internalID: 3227255224884054535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_26
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 274
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf55470c29968400800000000000000
+      internalID: 326116437410537411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_27
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 236
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba763c43753168a0800000000000000
+      internalID: -6313706433280574799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_28
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 274
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9535eb4b49ca7a90800000000000000
+      internalID: -7315313319476906596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_29
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 243
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978d6eeb2e2b9b4c0800000000000000
+      internalID: -4271186084649052039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_30
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 243
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497a42f214891d6f0800000000000000
+      internalID: -661580264515524716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_31
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 243
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47126ab1692fd9b90800000000000000
+      internalID: -7233358699964259980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_32
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 228
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8941af0f89f0ff750800000000000000
+      internalID: 6340803949913314456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_33
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 30
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099e659ba8ffc4c20800000000000000
+      internalID: 3192207207178889616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 15
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6dfa9c7bd3300b0800000000000000
+      internalID: -5763695238532049192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_35
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30185c0878e0c0b0800000000000000
+      internalID: -5710308725204971459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-IDLE-ELEKTRO.png_36
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fbc821003c78880800000000000000
+      internalID: -8608697757616783531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2-IDLE-ELEKTRO.png_0: -6748360958963449339
+      2-IDLE-ELEKTRO.png_1: 7621761299023990473
+      2-IDLE-ELEKTRO.png_10: 82471219495207696
+      2-IDLE-ELEKTRO.png_11: 8145915218356324521
+      2-IDLE-ELEKTRO.png_12: -2483547607890529262
+      2-IDLE-ELEKTRO.png_13: 7535952734554140623
+      2-IDLE-ELEKTRO.png_14: -5766008415096072992
+      2-IDLE-ELEKTRO.png_15: -5812820404604754044
+      2-IDLE-ELEKTRO.png_16: -9095519776851878708
+      2-IDLE-ELEKTRO.png_17: 4773078022130551283
+      2-IDLE-ELEKTRO.png_18: -2071876757399707546
+      2-IDLE-ELEKTRO.png_19: -7345472384752327720
+      2-IDLE-ELEKTRO.png_2: -9133295513963590529
+      2-IDLE-ELEKTRO.png_20: -4157032305852815012
+      2-IDLE-ELEKTRO.png_21: -8977041373729081272
+      2-IDLE-ELEKTRO.png_22: -172095209002706493
+      2-IDLE-ELEKTRO.png_23: 2185568245292743873
+      2-IDLE-ELEKTRO.png_24: -3996253537946571636
+      2-IDLE-ELEKTRO.png_25: 3227255224884054535
+      2-IDLE-ELEKTRO.png_26: 326116437410537411
+      2-IDLE-ELEKTRO.png_27: -6313706433280574799
+      2-IDLE-ELEKTRO.png_28: -7315313319476906596
+      2-IDLE-ELEKTRO.png_29: -4271186084649052039
+      2-IDLE-ELEKTRO.png_3: 682791711996035809
+      2-IDLE-ELEKTRO.png_30: -661580264515524716
+      2-IDLE-ELEKTRO.png_31: -7233358699964259980
+      2-IDLE-ELEKTRO.png_32: 6340803949913314456
+      2-IDLE-ELEKTRO.png_33: 3192207207178889616
+      2-IDLE-ELEKTRO.png_34: -5763695238532049192
+      2-IDLE-ELEKTRO.png_35: -5710308725204971459
+      2-IDLE-ELEKTRO.png_36: -8608697757616783531
+      2-IDLE-ELEKTRO.png_4: 7138763837992457795
+      2-IDLE-ELEKTRO.png_5: 5267569904165683262
+      2-IDLE-ELEKTRO.png_6: 144096307155483189
+      2-IDLE-ELEKTRO.png_7: -5751353591762077204
+      2-IDLE-ELEKTRO.png_8: 790114953880940695
+      2-IDLE-ELEKTRO.png_9: -6670357592374925808
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

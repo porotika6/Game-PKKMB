@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 7775286886936886030}
   - component: {fileID: 3961807748444397754}
   m_Layer: 0
-  m_Name: Player
+  m_Name: Elektro
   m_TagString: Player
   m_Icon: {fileID: 2488908585195742037, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0

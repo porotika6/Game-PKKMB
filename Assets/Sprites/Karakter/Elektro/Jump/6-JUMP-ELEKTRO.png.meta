@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 25ee241b49f2f064a8e81e750534b84a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6168858376753246083
+    second: 6-JUMP-ELEKTRO_0
+  - first:
+      213: -6906388761706215742
+    second: 6-JUMP-ELEKTRO_1
+  - first:
+      213: 7468845138351875391
+    second: 6-JUMP-ELEKTRO_2
+  - first:
+      213: -6476457524554387499
+    second: 6-JUMP-ELEKTRO_3
+  - first:
+      213: 4586725453532820497
+    second: 6-JUMP-ELEKTRO_4
+  - first:
+      213: -1154052144188039644
+    second: 6-JUMP-ELEKTRO_5
+  - first:
+      213: 5360799734276828805
+    second: 6-JUMP-ELEKTRO_6
+  - first:
+      213: 7282583331968931537
+    second: 6-JUMP-ELEKTRO_7
+  - first:
+      213: 9113335254533273543
+    second: 6-JUMP-ELEKTRO_8
+  - first:
+      213: 8008588920081402708
+    second: 6-JUMP-ELEKTRO_9
+  - first:
+      213: -6082817448810161760
+    second: 6-JUMP-ELEKTRO_10
+  - first:
+      213: -253847696608262268
+    second: 6-JUMP-ELEKTRO_11
+  - first:
+      213: -5078644963021975875
+    second: 6-JUMP-ELEKTRO_12
+  - first:
+      213: -8093605126509632129
+    second: 6-JUMP-ELEKTRO_13
+  - first:
+      213: -2900898910624493327
+    second: 6-JUMP-ELEKTRO_14
+  - first:
+      213: -4763136317456547081
+    second: 6-JUMP-ELEKTRO_15
+  - first:
+      213: 1647746137689900361
+    second: 6-JUMP-ELEKTRO_16
+  - first:
+      213: -4262043928531355926
+    second: 6-JUMP-ELEKTRO_17
+  - first:
+      213: -7430444410232743941
+    second: 6-JUMP-ELEKTRO_18
+  - first:
+      213: 1291527750591967524
+    second: 6-JUMP-ELEKTRO_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 6-JUMP-ELEKTRO_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1852
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fe11872003c9550800000000000000
+      internalID: 6168858376753246083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-JUMP-ELEKTRO_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 1755
+        height: 2048
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c640c943049720a0800000000000000
+      internalID: -6906388761706215742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-JUMP-ELEKTRO_2
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1414
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35edd9e41ba6a760800000000000000
+      internalID: 7468845138351875391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-JUMP-ELEKTRO_3
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1383
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfa706f1300f16a0800000000000000
+      internalID: -6476457524554387499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-JUMP-ELEKTRO_4
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 1363
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114f01c9f7257af30800000000000000
+      internalID: 4586725453532820497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-JUMP-ELEKTRO_5
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1363
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ed46570bbfbffe0800000000000000
+      internalID: -1154052144188039644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-JUMP-ELEKTRO_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1078
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e2491a4f2656a40800000000000000
+      internalID: 5360799734276828805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-JUMP-ELEKTRO_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1037
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d65035a4fee01560800000000000000
+      internalID: 7282583331968931537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-JUMP-ELEKTRO_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1016
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7ff752122197e70800000000000000
+      internalID: 9113335254533273543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-JUMP-ELEKTRO_9
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 935
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bc4950139342f60800000000000000
+      internalID: 8008588920081402708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-JUMP-ELEKTRO_10
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 843
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a95f1a22cd759ba0800000000000000
+      internalID: -6082817448810161760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-JUMP-ELEKTRO_11
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 853
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4870d986dd62a7cf0800000000000000
+      internalID: -253847696608262268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-JUMP-ELEKTRO_12
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 853
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe8fbe50570589b0800000000000000
+      internalID: -5078644963021975875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-JUMP-ELEKTRO_13
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 853
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75ec1ae40dbdaf80800000000000000
+      internalID: -8093605126509632129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-JUMP-ELEKTRO_14
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 833
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0d8e67fcfedb7d0800000000000000
+      internalID: -2900898910624493327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-JUMP-ELEKTRO_15
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 833
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f28d3561c0f5edb0800000000000000
+      internalID: -4763136317456547081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-JUMP-ELEKTRO_16
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 833
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9454701d168fdd610800000000000000
+      internalID: 1647746137689900361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-JUMP-ELEKTRO_17
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 812
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae637c6d0ad2ad4c0800000000000000
+      internalID: -4262043928531355926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-JUMP-ELEKTRO_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 242
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf75ac45d22c1e890800000000000000
+      internalID: -7430444410232743941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-JUMP-ELEKTRO_19
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 180
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421f79775ad6ce110800000000000000
+      internalID: 1291527750591967524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      6-JUMP-ELEKTRO_0: 6168858376753246083
+      6-JUMP-ELEKTRO_1: -6906388761706215742
+      6-JUMP-ELEKTRO_10: -6082817448810161760
+      6-JUMP-ELEKTRO_11: -253847696608262268
+      6-JUMP-ELEKTRO_12: -5078644963021975875
+      6-JUMP-ELEKTRO_13: -8093605126509632129
+      6-JUMP-ELEKTRO_14: -2900898910624493327
+      6-JUMP-ELEKTRO_15: -4763136317456547081
+      6-JUMP-ELEKTRO_16: 1647746137689900361
+      6-JUMP-ELEKTRO_17: -4262043928531355926
+      6-JUMP-ELEKTRO_18: -7430444410232743941
+      6-JUMP-ELEKTRO_19: 1291527750591967524
+      6-JUMP-ELEKTRO_2: 7468845138351875391
+      6-JUMP-ELEKTRO_3: -6476457524554387499
+      6-JUMP-ELEKTRO_4: 4586725453532820497
+      6-JUMP-ELEKTRO_5: -1154052144188039644
+      6-JUMP-ELEKTRO_6: 5360799734276828805
+      6-JUMP-ELEKTRO_7: 7282583331968931537
+      6-JUMP-ELEKTRO_8: 9113335254533273543
+      6-JUMP-ELEKTRO_9: 8008588920081402708
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
