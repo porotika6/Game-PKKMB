@@ -32,7 +32,7 @@ public class SettingsMenuUI : MonoBehaviour
     }
     void Update()
     {
-        if(Countdown.instance.IsCountingDown) gameObject.SetActive(false);
+        if(StartGame.instance.IsCountingDown) gameObject.SetActive(false);
     }
     public void SetMusicVolume()
     {

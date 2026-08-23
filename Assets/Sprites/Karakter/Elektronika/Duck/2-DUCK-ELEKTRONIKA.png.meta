@@ -1,0 +1,1300 @@
+fileFormatVersion: 2
+guid: 2663743e349d65f43a572b00d084acea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 496999668870681159
+    second: 2-DUCK-ELEKTRONIKA_0
+  - first:
+      213: -3233010404481403466
+    second: 2-DUCK-ELEKTRONIKA_1
+  - first:
+      213: 2987539666303170865
+    second: 2-DUCK-ELEKTRONIKA_2
+  - first:
+      213: 7723733775700751994
+    second: 2-DUCK-ELEKTRONIKA_3
+  - first:
+      213: 2177493961744248808
+    second: 2-DUCK-ELEKTRONIKA_4
+  - first:
+      213: -6586302737661985109
+    second: 2-DUCK-ELEKTRONIKA_5
+  - first:
+      213: 4091360089417671505
+    second: 2-DUCK-ELEKTRONIKA_6
+  - first:
+      213: 1255262308930788942
+    second: 2-DUCK-ELEKTRONIKA_7
+  - first:
+      213: -8284998307011155697
+    second: 2-DUCK-ELEKTRONIKA_8
+  - first:
+      213: -7296526868507694283
+    second: 2-DUCK-ELEKTRONIKA_9
+  - first:
+      213: -7943542555204825803
+    second: 2-DUCK-ELEKTRONIKA_10
+  - first:
+      213: -4377773068230845374
+    second: 2-DUCK-ELEKTRONIKA_11
+  - first:
+      213: 305986117165630719
+    second: 2-DUCK-ELEKTRONIKA_12
+  - first:
+      213: -1796866327925819497
+    second: 2-DUCK-ELEKTRONIKA_13
+  - first:
+      213: -571736461257965715
+    second: 2-DUCK-ELEKTRONIKA_14
+  - first:
+      213: 703880445969711393
+    second: 2-DUCK-ELEKTRONIKA_15
+  - first:
+      213: -6349313432759358212
+    second: 2-DUCK-ELEKTRONIKA_16
+  - first:
+      213: 4866086966111152575
+    second: 2-DUCK-ELEKTRONIKA_17
+  - first:
+      213: 3164536751293248477
+    second: 2-DUCK-ELEKTRONIKA_18
+  - first:
+      213: -5706435514649472635
+    second: 2-DUCK-ELEKTRONIKA_19
+  - first:
+      213: 8320536746884888830
+    second: 2-DUCK-ELEKTRONIKA_20
+  - first:
+      213: 8784001419625988826
+    second: 2-DUCK-ELEKTRONIKA_21
+  - first:
+      213: 8351864910157334278
+    second: 2-DUCK-ELEKTRONIKA_22
+  - first:
+      213: 2129050380755825760
+    second: 2-DUCK-ELEKTRONIKA_23
+  - first:
+      213: -4018112147035438011
+    second: 2-DUCK-ELEKTRONIKA_24
+  - first:
+      213: -7225349871164988267
+    second: 2-DUCK-ELEKTRONIKA_25
+  - first:
+      213: 5341570359564834587
+    second: 2-DUCK-ELEKTRONIKA_26
+  - first:
+      213: 5321379653222232884
+    second: 2-DUCK-ELEKTRONIKA_27
+  - first:
+      213: -8734106688762499433
+    second: 2-DUCK-ELEKTRONIKA_28
+  - first:
+      213: -4484567744607678993
+    second: 2-DUCK-ELEKTRONIKA_29
+  - first:
+      213: -1882703015654725241
+    second: 2-DUCK-ELEKTRONIKA_30
+  - first:
+      213: 880810304265941910
+    second: 2-DUCK-ELEKTRONIKA_31
+  - first:
+      213: 1011620553314049558
+    second: 2-DUCK-ELEKTRONIKA_32
+  - first:
+      213: -3383483697438653678
+    second: 2-DUCK-ELEKTRONIKA_33
+  - first:
+      213: 8369389926198521484
+    second: 2-DUCK-ELEKTRONIKA_34
+  - first:
+      213: -5954166574312015485
+    second: 2-DUCK-ELEKTRONIKA_35
+  - first:
+      213: 3450309305236678471
+    second: 2-DUCK-ELEKTRONIKA_36
+  - first:
+      213: 1659655841919203690
+    second: 2-DUCK-ELEKTRONIKA_37
+  - first:
+      213: -2083872788718695946
+    second: 2-DUCK-ELEKTRONIKA_38
+  - first:
+      213: 3468180806756159366
+    second: 2-DUCK-ELEKTRONIKA_39
+  - first:
+      213: -294267784920546455
+    second: 2-DUCK-ELEKTRONIKA_40
+  - first:
+      213: 8967868052824408991
+    second: 2-DUCK-ELEKTRONIKA_41
+  - first:
+      213: -8515689449531835416
+    second: 2-DUCK-ELEKTRONIKA_42
+  - first:
+      213: 7306066840206721311
+    second: 2-DUCK-ELEKTRONIKA_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1817
+        height: 2048
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742168cc092b5e600800000000000000
+      internalID: 496999668870681159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_1
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 2025
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b57eb59a2a0223d0800000000000000
+      internalID: -3233010404481403466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_2
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 2012
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139b3627f7fd57920800000000000000
+      internalID: 2987539666303170865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_3
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 2012
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76745862f6303b60800000000000000
+      internalID: 7723733775700751994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_4
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1971
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efe25aa833083e10800000000000000
+      internalID: 2177493961744248808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_5
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 1957
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae797a4e80c894a0800000000000000
+      internalID: -6586302737661985109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_6
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1958
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15363f9035e67c830800000000000000
+      internalID: 4091360089417671505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_7
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1944
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e91c75b669b6110800000000000000
+      internalID: 1255262308930788942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_8
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 1944
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0923e18fe5c50d80800000000000000
+      internalID: -8284998307011155697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_9
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1903
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b6184c8778dba90800000000000000
+      internalID: -7296526868507694283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_10
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1903
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d41daf12ed2c190800000000000000
+      internalID: -7943542555204825803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_11
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1876
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c14d0c6960f33c0800000000000000
+      internalID: -4377773068230845374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_12
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1883
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4cbdb90c41f3400800000000000000
+      internalID: 305986117165630719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_13
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 1890
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797fe1f489f3017e0800000000000000
+      internalID: -1796866327925819497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_14
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 1863
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f7499b7b8c018f0800000000000000
+      internalID: -571736461257965715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_15
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1862
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1214e5a498fa4c900800000000000000
+      internalID: 703880445969711393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_16
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 1869
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc23c0b215b2e7a0800000000000000
+      internalID: -6349313432759358212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_17
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 1863
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9a6356050d78340800000000000000
+      internalID: 4866086966111152575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_18
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 1849
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3b08ba861baeb20800000000000000
+      internalID: 3164536751293248477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_19
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 1849
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58115a7222baec0b0800000000000000
+      internalID: -5706435514649472635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_20
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 1835
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef878a2561c787370800000000000000
+      internalID: 8320536746884888830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_21
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 1774
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2855360ca07e970800000000000000
+      internalID: 8784001419625988826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_22
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 1781
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6074afdb2e8c7e370800000000000000
+      internalID: 8351864910157334278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_23
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 1727
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0647cd58a08eb8d10800000000000000
+      internalID: 2129050380755825760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_24
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 1714
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54445488a4ccc38c0800000000000000
+      internalID: -4018112147035438011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_25
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1700
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594eb4fd2966abb90800000000000000
+      internalID: -7225349871164988267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_26
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1659
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b171e90f0f1112a40800000000000000
+      internalID: 5341570359564834587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_27
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1666
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4337d49c99659d940800000000000000
+      internalID: 5321379653222232884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_28
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 1591
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ea2f9ed383ac680800000000000000
+      internalID: -8734106688762499433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_29
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 1592
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed0c73856d93c1c0800000000000000
+      internalID: -4484567744607678993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_30
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1578
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789e75e059b4fd5e0800000000000000
+      internalID: -1882703015654725241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_31
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 1564
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69376441e44493c00800000000000000
+      internalID: 880810304265941910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_32
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 1564
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e94cf888ff90e00800000000000000
+      internalID: 1011620553314049558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_33
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1483
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21308dee0837b01d0800000000000000
+      internalID: -3383483697438653678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_34
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1469
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8eabc18bcb062470800000000000000
+      internalID: 8369389926198521484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_35
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 1442
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389b0a41c0d8e5da0800000000000000
+      internalID: -5954166574312015485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_36
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 1422
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7476bd75806f1ef20800000000000000
+      internalID: 3450309305236678471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_37
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 1408
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69fefae138480710800000000000000
+      internalID: 1659655841919203690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_38
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 805
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9c15f4db89413e0800000000000000
+      internalID: -2083872788718695946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_39
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 771
+        width: 9
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f478b8114712030800000000000000
+      internalID: 3468180806756159366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_40
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 643
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96348fa320d8aebf0800000000000000
+      internalID: -294267784920546455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_41
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 602
+        width: 9
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f934c21fa74447c70800000000000000
+      internalID: 8967868052824408991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_42
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 629
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebfc1f409132d980800000000000000
+      internalID: -8515689449531835416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-DUCK-ELEKTRONIKA_43
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 588
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1148cbf41d546560800000000000000
+      internalID: 7306066840206721311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2-DUCK-ELEKTRONIKA_0: 496999668870681159
+      2-DUCK-ELEKTRONIKA_1: -3233010404481403466
+      2-DUCK-ELEKTRONIKA_10: -7943542555204825803
+      2-DUCK-ELEKTRONIKA_11: -4377773068230845374
+      2-DUCK-ELEKTRONIKA_12: 305986117165630719
+      2-DUCK-ELEKTRONIKA_13: -1796866327925819497
+      2-DUCK-ELEKTRONIKA_14: -571736461257965715
+      2-DUCK-ELEKTRONIKA_15: 703880445969711393
+      2-DUCK-ELEKTRONIKA_16: -6349313432759358212
+      2-DUCK-ELEKTRONIKA_17: 4866086966111152575
+      2-DUCK-ELEKTRONIKA_18: 3164536751293248477
+      2-DUCK-ELEKTRONIKA_19: -5706435514649472635
+      2-DUCK-ELEKTRONIKA_2: 2987539666303170865
+      2-DUCK-ELEKTRONIKA_20: 8320536746884888830
+      2-DUCK-ELEKTRONIKA_21: 8784001419625988826
+      2-DUCK-ELEKTRONIKA_22: 8351864910157334278
+      2-DUCK-ELEKTRONIKA_23: 2129050380755825760
+      2-DUCK-ELEKTRONIKA_24: -4018112147035438011
+      2-DUCK-ELEKTRONIKA_25: -7225349871164988267
+      2-DUCK-ELEKTRONIKA_26: 5341570359564834587
+      2-DUCK-ELEKTRONIKA_27: 5321379653222232884
+      2-DUCK-ELEKTRONIKA_28: -8734106688762499433
+      2-DUCK-ELEKTRONIKA_29: -4484567744607678993
+      2-DUCK-ELEKTRONIKA_3: 7723733775700751994
+      2-DUCK-ELEKTRONIKA_30: -1882703015654725241
+      2-DUCK-ELEKTRONIKA_31: 880810304265941910
+      2-DUCK-ELEKTRONIKA_32: 1011620553314049558
+      2-DUCK-ELEKTRONIKA_33: -3383483697438653678
+      2-DUCK-ELEKTRONIKA_34: 8369389926198521484
+      2-DUCK-ELEKTRONIKA_35: -5954166574312015485
+      2-DUCK-ELEKTRONIKA_36: 3450309305236678471
+      2-DUCK-ELEKTRONIKA_37: 1659655841919203690
+      2-DUCK-ELEKTRONIKA_38: -2083872788718695946
+      2-DUCK-ELEKTRONIKA_39: 3468180806756159366
+      2-DUCK-ELEKTRONIKA_4: 2177493961744248808
+      2-DUCK-ELEKTRONIKA_40: -294267784920546455
+      2-DUCK-ELEKTRONIKA_41: 8967868052824408991
+      2-DUCK-ELEKTRONIKA_42: -8515689449531835416
+      2-DUCK-ELEKTRONIKA_43: 7306066840206721311
+      2-DUCK-ELEKTRONIKA_5: -6586302737661985109
+      2-DUCK-ELEKTRONIKA_6: 4091360089417671505
+      2-DUCK-ELEKTRONIKA_7: 1255262308930788942
+      2-DUCK-ELEKTRONIKA_8: -8284998307011155697
+      2-DUCK-ELEKTRONIKA_9: -7296526868507694283
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

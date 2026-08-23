@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: c7daf449f51a5fc4cb6be2d5497eaa50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5175652264684667208
+    second: 3-IDLE-STI_0
+  - first:
+      213: 201126623441518459
+    second: 3-IDLE-STI_1
+  - first:
+      213: 7948277966985835993
+    second: 3-IDLE-STI_2
+  - first:
+      213: -5007363846846509032
+    second: 3-IDLE-STI_3
+  - first:
+      213: -1656813704933366072
+    second: 3-IDLE-STI_4
+  - first:
+      213: 3516712142362239351
+    second: 3-IDLE-STI_5
+  - first:
+      213: -3706768192864178357
+    second: 3-IDLE-STI_6
+  - first:
+      213: 1592668355278545983
+    second: 3-IDLE-STI_7
+  - first:
+      213: 2092418385799085659
+    second: 3-IDLE-STI_8
+  - first:
+      213: -7037942292621079935
+    second: 3-IDLE-STI_9
+  - first:
+      213: -2175890556040175687
+    second: 3-IDLE-STI_10
+  - first:
+      213: -287386001708582863
+    second: 3-IDLE-STI_11
+  - first:
+      213: 1244425892046661998
+    second: 3-IDLE-STI_12
+  - first:
+      213: -3600851950922086939
+    second: 3-IDLE-STI_13
+  - first:
+      213: -9204428272356615395
+    second: 3-IDLE-STI_14
+  - first:
+      213: 7337715928686270060
+    second: 3-IDLE-STI_15
+  - first:
+      213: 6591779443273411531
+    second: 3-IDLE-STI_16
+  - first:
+      213: -401152568410110135
+    second: 3-IDLE-STI_17
+  - first:
+      213: -3307279604957806802
+    second: 3-IDLE-STI_18
+  - first:
+      213: 424250040806594751
+    second: 3-IDLE-STI_19
+  - first:
+      213: -2030702484339426826
+    second: 3-IDLE-STI_20
+  - first:
+      213: 1972506582176620886
+    second: 3-IDLE-STI_21
+  - first:
+      213: -8057675661363142673
+    second: 3-IDLE-STI_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3-IDLE-STI_0
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0
+        width: 1818
+        height: 2048
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be3682efa36c28b0800000000000000
+      internalID: -5175652264684667208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-IDLE-STI_1
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1377
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ffa11399b8ac200800000000000000
+      internalID: 201126623441518459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-IDLE-STI_2
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 1331
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5314ef2b4fd4e60800000000000000
+      internalID: 7948277966985835993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-IDLE-STI_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1316
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81094978c15428ab0800000000000000
+      internalID: -5007363846846509032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-IDLE-STI_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1316
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6a27aa6b0d109e0800000000000000
+      internalID: -1656813704933366072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-IDLE-STI_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1301
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771edc6af0fddc030800000000000000
+      internalID: 3516712142362239351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-IDLE-STI_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1300
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f2d97c7f9ee8cc0800000000000000
+      internalID: -3706768192864178357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-IDLE-STI_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1285
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3422694e6b4a1610800000000000000
+      internalID: 1592668355278545983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-IDLE-STI_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1270
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5efc0f8f63c90d10800000000000000
+      internalID: 2092418385799085659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-IDLE-STI_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1270
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a4f9206c4345e90800000000000000
+      internalID: -7037942292621079935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-IDLE-STI_10
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1270
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf1911511fadc1e0800000000000000
+      internalID: -2175890556040175687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-IDLE-STI_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1255
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1387dbe34fff20cf0800000000000000
+      internalID: -287386001708582863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-IDLE-STI_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1239
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e696dbc61c6154110800000000000000
+      internalID: 1244425892046661998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-IDLE-STI_13
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1239
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e544809a34370ec0800000000000000
+      internalID: -3600851950922086939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-IDLE-STI_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1224
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b1f91e04d434080800000000000000
+      internalID: -9204428272356615395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-IDLE-STI_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1224
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c661210a2cdc4d560800000000000000
+      internalID: 7337715928686270060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-IDLE-STI_16
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 151
+        width: 203
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcba80a9a74ba7b50800000000000000
+      internalID: 6591779443273411531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-IDLE-STI_17
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 89
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9470e2b4dd1de6af0800000000000000
+      internalID: -401152568410110135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-IDLE-STI_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 74
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f7895d8be2a12d0800000000000000
+      internalID: -3307279604957806802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-IDLE-STI_19
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 28
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8d8321a2d33e500800000000000000
+      internalID: 424250040806594751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-IDLE-STI_20
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 28
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9f17089de71d3e0800000000000000
+      internalID: -2030702484339426826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-IDLE-STI_21
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 5
+        width: 10
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651e1c32940cf5b10800000000000000
+      internalID: 1972506582176620886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-IDLE-STI_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef93296da26d2090800000000000000
+      internalID: -8057675661363142673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      3-IDLE-STI_0: -5175652264684667208
+      3-IDLE-STI_1: 201126623441518459
+      3-IDLE-STI_10: -2175890556040175687
+      3-IDLE-STI_11: -287386001708582863
+      3-IDLE-STI_12: 1244425892046661998
+      3-IDLE-STI_13: -3600851950922086939
+      3-IDLE-STI_14: -9204428272356615395
+      3-IDLE-STI_15: 7337715928686270060
+      3-IDLE-STI_16: 6591779443273411531
+      3-IDLE-STI_17: -401152568410110135
+      3-IDLE-STI_18: -3307279604957806802
+      3-IDLE-STI_19: 424250040806594751
+      3-IDLE-STI_2: 7948277966985835993
+      3-IDLE-STI_20: -2030702484339426826
+      3-IDLE-STI_21: 1972506582176620886
+      3-IDLE-STI_22: -8057675661363142673
+      3-IDLE-STI_3: -5007363846846509032
+      3-IDLE-STI_4: -1656813704933366072
+      3-IDLE-STI_5: 3516712142362239351
+      3-IDLE-STI_6: -3706768192864178357
+      3-IDLE-STI_7: 1592668355278545983
+      3-IDLE-STI_8: 2092418385799085659
+      3-IDLE-STI_9: -7037942292621079935
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

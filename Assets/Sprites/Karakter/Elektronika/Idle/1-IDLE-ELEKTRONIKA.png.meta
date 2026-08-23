@@ -5,6 +5,30 @@ TextureImporter:
   - first:
       213: 900085868530104347
     second: 1-IDLE-ELEKTRONIKA_0
+  - first:
+      213: -7300664189011005163
+    second: 1-IDLE-ELEKTRONIKA_1
+  - first:
+      213: -3445077205562553963
+    second: 1-IDLE-ELEKTRONIKA_2
+  - first:
+      213: 2676274710398871824
+    second: 1-IDLE-ELEKTRONIKA_3
+  - first:
+      213: 3378005470163103234
+    second: 1-IDLE-ELEKTRONIKA_4
+  - first:
+      213: -1793196657831236217
+    second: 1-IDLE-ELEKTRONIKA_5
+  - first:
+      213: 3040168454879934607
+    second: 1-IDLE-ELEKTRONIKA_6
+  - first:
+      213: 6107950970679059552
+    second: 1-IDLE-ELEKTRONIKA_7
+  - first:
+      213: 5435766266834121603
+    second: 1-IDLE-ELEKTRONIKA_8
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -142,10 +166,10 @@ TextureImporter:
       name: 1-IDLE-ELEKTRONIKA_0
       rect:
         serializedVersion: 2
-        x: 382
-        y: 2
-        width: 1198
-        height: 2036
+        x: 176
+        y: 0
+        width: 1551
+        height: 2046
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -156,6 +180,182 @@ TextureImporter:
       bones: []
       spriteID: b18f51d145fbd7c00800000000000000
       internalID: 900085868530104347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-IDLE-ELEKTRONIKA_1
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 1950
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5117595c994deaa90800000000000000
+      internalID: -7300664189011005163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-IDLE-ELEKTRONIKA_2
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1939
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59906aac880a030d0800000000000000
+      internalID: -3445077205562553963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-IDLE-ELEKTRONIKA_3
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 1928
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019afaa6ba9042520800000000000000
+      internalID: 2676274710398871824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-IDLE-ELEKTRONIKA_4
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 823
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ee562e31611ee20800000000000000
+      internalID: 3378005470163103234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-IDLE-ELEKTRONIKA_5
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 833
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d2d85f3294d17e0800000000000000
+      internalID: -1793196657831236217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-IDLE-ELEKTRONIKA_6
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 782
+        width: 24
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88777a2a19d03a20800000000000000
+      internalID: 3040168454879934607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-IDLE-ELEKTRONIKA_7
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 812
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064e3d8eb0dc3c450800000000000000
+      internalID: 6107950970679059552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-IDLE-ELEKTRONIKA_8
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 284
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383f2b8ae98bf6b40800000000000000
+      internalID: 5435766266834121603
       vertices: []
       indices: 
       edges: []
@@ -175,6 +375,14 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       1-IDLE-ELEKTRONIKA_0: 900085868530104347
+      1-IDLE-ELEKTRONIKA_1: -7300664189011005163
+      1-IDLE-ELEKTRONIKA_2: -3445077205562553963
+      1-IDLE-ELEKTRONIKA_3: 2676274710398871824
+      1-IDLE-ELEKTRONIKA_4: 3378005470163103234
+      1-IDLE-ELEKTRONIKA_5: -1793196657831236217
+      1-IDLE-ELEKTRONIKA_6: 3040168454879934607
+      1-IDLE-ELEKTRONIKA_7: 6107950970679059552
+      1-IDLE-ELEKTRONIKA_8: 5435766266834121603
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

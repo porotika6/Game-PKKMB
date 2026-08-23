@@ -16,4 +16,4 @@ MonoBehaviour:
   popupDescription: "Halo, aku Pix maskot dari prodi \nPendidikan Teknik Informatika
     dan Komputer"
   icon: {fileID: 21300000, guid: 8494a9e57b9538d4485657b937013b07, type: 3}
-  gameplayPrefab: {fileID: 42789016384494613, guid: a9253e530a36a4d42a76fe29d903ff03, type: 3}
+  gameplayPrefab: {fileID: 5032961640946134021, guid: 0b02e4fb1d1192545b3bb405f31f7f85, type: 3}

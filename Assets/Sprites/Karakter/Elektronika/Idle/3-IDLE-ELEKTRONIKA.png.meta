@@ -5,6 +5,12 @@ TextureImporter:
   - first:
       213: 5941748439138971951
     second: 3-IDLE-ELEKTRONIKA_0
+  - first:
+      213: 4655174935725169639
+    second: 3-IDLE-ELEKTRONIKA_1
+  - first:
+      213: 7886424383140466484
+    second: 3-IDLE-ELEKTRONIKA_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -142,10 +148,10 @@ TextureImporter:
       name: 3-IDLE-ELEKTRONIKA_0
       rect:
         serializedVersion: 2
-        x: 360
-        y: 0
-        width: 1230
-        height: 2033
+        x: 157
+        y: 2041
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -156,6 +162,50 @@ TextureImporter:
       bones: []
       spriteID: f213c9389b4557250800000000000000
       internalID: 5941748439138971951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-IDLE-ELEKTRONIKA_1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 1405
+        height: 2048
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb533b90f08a9040800000000000000
+      internalID: 4655174935725169639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-IDLE-ELEKTRONIKA_2
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2030
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f01114135327d60800000000000000
+      internalID: 7886424383140466484
       vertices: []
       indices: 
       edges: []
@@ -175,6 +225,8 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       3-IDLE-ELEKTRONIKA_0: 5941748439138971951
+      3-IDLE-ELEKTRONIKA_1: 4655174935725169639
+      3-IDLE-ELEKTRONIKA_2: 7886424383140466484
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

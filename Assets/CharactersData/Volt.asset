@@ -15,4 +15,4 @@ MonoBehaviour:
   characterName: Volt
   popupDescription: "Halo, aku Volt maskot dari prodi \nPendidikan Teknik Elektronika"
   icon: {fileID: 21300000, guid: d87241f3683492942b5fc25e79ef7c90, type: 3}
-  gameplayPrefab: {fileID: 42789016384494613, guid: a9253e530a36a4d42a76fe29d903ff03, type: 3}
+  gameplayPrefab: {fileID: 1071034798467630480, guid: 4983b249267edb543a72485d9b60b4e8, type: 3}

@@ -1,0 +1,1846 @@
+fileFormatVersion: 2
+guid: 3063c749cf56c0a48bdf70a2d934a0d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3515796002505609613
+    second: 4-IDLE-PTIK_0
+  - first:
+      213: -2650205661517164755
+    second: 4-IDLE-PTIK_1
+  - first:
+      213: 7663985335239367630
+    second: 4-IDLE-PTIK_2
+  - first:
+      213: -5947741316838627656
+    second: 4-IDLE-PTIK_3
+  - first:
+      213: 6698957726698076659
+    second: 4-IDLE-PTIK_4
+  - first:
+      213: -33152970315870781
+    second: 4-IDLE-PTIK_5
+  - first:
+      213: 4441332613731689696
+    second: 4-IDLE-PTIK_6
+  - first:
+      213: -2807294632026655311
+    second: 4-IDLE-PTIK_7
+  - first:
+      213: 7663457223528764199
+    second: 4-IDLE-PTIK_8
+  - first:
+      213: -540423220581132982
+    second: 4-IDLE-PTIK_9
+  - first:
+      213: -8412719420065037189
+    second: 4-IDLE-PTIK_10
+  - first:
+      213: 839144346575196881
+    second: 4-IDLE-PTIK_11
+  - first:
+      213: -2513504889462575529
+    second: 4-IDLE-PTIK_12
+  - first:
+      213: -8597891963971318980
+    second: 4-IDLE-PTIK_13
+  - first:
+      213: -786413931104009167
+    second: 4-IDLE-PTIK_14
+  - first:
+      213: -1107474014138593534
+    second: 4-IDLE-PTIK_15
+  - first:
+      213: -8962930415757862031
+    second: 4-IDLE-PTIK_16
+  - first:
+      213: -4311076553437763747
+    second: 4-IDLE-PTIK_17
+  - first:
+      213: -9072566937021873955
+    second: 4-IDLE-PTIK_18
+  - first:
+      213: -3670588527994748193
+    second: 4-IDLE-PTIK_19
+  - first:
+      213: -5146662878830378352
+    second: 4-IDLE-PTIK_20
+  - first:
+      213: 6738846859494773257
+    second: 4-IDLE-PTIK_21
+  - first:
+      213: -7795969123868288556
+    second: 4-IDLE-PTIK_22
+  - first:
+      213: -264901320163397005
+    second: 4-IDLE-PTIK_23
+  - first:
+      213: 1832613898125132075
+    second: 4-IDLE-PTIK_24
+  - first:
+      213: 3531695636857873939
+    second: 4-IDLE-PTIK_25
+  - first:
+      213: -2432766663889416823
+    second: 4-IDLE-PTIK_26
+  - first:
+      213: 2026702154082017278
+    second: 4-IDLE-PTIK_27
+  - first:
+      213: 2838181012279051272
+    second: 4-IDLE-PTIK_28
+  - first:
+      213: -2800206720762487601
+    second: 4-IDLE-PTIK_29
+  - first:
+      213: 621657757747225205
+    second: 4-IDLE-PTIK_30
+  - first:
+      213: -2546020881842203412
+    second: 4-IDLE-PTIK_31
+  - first:
+      213: 1937916303879481303
+    second: 4-IDLE-PTIK_32
+  - first:
+      213: 7712684083845425889
+    second: 4-IDLE-PTIK_33
+  - first:
+      213: -97399125173764277
+    second: 4-IDLE-PTIK_34
+  - first:
+      213: 6995120641443667627
+    second: 4-IDLE-PTIK_35
+  - first:
+      213: 409427521803366831
+    second: 4-IDLE-PTIK_36
+  - first:
+      213: 8978605058848015751
+    second: 4-IDLE-PTIK_37
+  - first:
+      213: 345780764477245437
+    second: 4-IDLE-PTIK_38
+  - first:
+      213: 8511251571237789728
+    second: 4-IDLE-PTIK_39
+  - first:
+      213: 2980395349401029596
+    second: 4-IDLE-PTIK_40
+  - first:
+      213: -2976955248430242789
+    second: 4-IDLE-PTIK_41
+  - first:
+      213: 7260005913192520354
+    second: 4-IDLE-PTIK_42
+  - first:
+      213: 5138794337867747713
+    second: 4-IDLE-PTIK_43
+  - first:
+      213: 5987838466677486506
+    second: 4-IDLE-PTIK_44
+  - first:
+      213: -6669030306691525443
+    second: 4-IDLE-PTIK_45
+  - first:
+      213: -7365387412965808908
+    second: 4-IDLE-PTIK_46
+  - first:
+      213: 8315756270923270718
+    second: 4-IDLE-PTIK_47
+  - first:
+      213: -8263643685864088619
+    second: 4-IDLE-PTIK_48
+  - first:
+      213: 5525307363684054531
+    second: 4-IDLE-PTIK_49
+  - first:
+      213: 3959597579008245343
+    second: 4-IDLE-PTIK_50
+  - first:
+      213: -4758064976393705934
+    second: 4-IDLE-PTIK_51
+  - first:
+      213: -3486384839180077954
+    second: 4-IDLE-PTIK_52
+  - first:
+      213: -7539222226996720117
+    second: 4-IDLE-PTIK_53
+  - first:
+      213: -8697843115852470120
+    second: 4-IDLE-PTIK_54
+  - first:
+      213: 2320993027204427276
+    second: 4-IDLE-PTIK_55
+  - first:
+      213: -965685409055441833
+    second: 4-IDLE-PTIK_56
+  - first:
+      213: -2612182825490671096
+    second: 4-IDLE-PTIK_57
+  - first:
+      213: -4017524590687523552
+    second: 4-IDLE-PTIK_58
+  - first:
+      213: 7671671370207994821
+    second: 4-IDLE-PTIK_59
+  - first:
+      213: 3758500635141550497
+    second: 4-IDLE-PTIK_60
+  - first:
+      213: -7749975256140131544
+    second: 4-IDLE-PTIK_61
+  - first:
+      213: 6970087103341512776
+    second: 4-IDLE-PTIK_62
+  - first:
+      213: -5412131036437341123
+    second: 4-IDLE-PTIK_63
+  - first:
+      213: 1113963816227298327
+    second: 4-IDLE-PTIK_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_0
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 1416
+        height: 2048
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e2ae7c922653fc0800000000000000
+      internalID: -3515796002505609613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_1
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 417
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f4a830ef3983bd0800000000000000
+      internalID: -2650205661517164755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 401
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbdebe8e02fb5a60800000000000000
+      internalID: 7663985335239367630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_3
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 401
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b66be9e8c0657da0800000000000000
+      internalID: -5947741316838627656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 386
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f972315f8a77fc50800000000000000
+      internalID: 6698957726698076659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 385
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdc2159c873a8ff0800000000000000
+      internalID: -33152970315870781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_6
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 386
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4a5d22b78c2ad30800000000000000
+      internalID: 4441332613731689696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_7
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 385
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5b036e76c7a09d0800000000000000
+      internalID: -2807294632026655311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_8
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 307
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72355d7fdb11a5a60800000000000000
+      internalID: 7663457223528764199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 276
+        width: 9
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4593e4b1f70088f0800000000000000
+      internalID: -540423220581132982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 292
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b744efb8244004b80800000000000000
+      internalID: -8412719420065037189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 292
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d254e4565d35ab00800000000000000
+      internalID: 839144346575196881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 292
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e2062ce9c3e1dd0800000000000000
+      internalID: -2513504889462575529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 276
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bcd46ffc62ea880800000000000000
+      internalID: -8597891963971318980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_14
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 276
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134802e32b81615f0800000000000000
+      internalID: -786413931104009167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 276
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f0b45704671a0f0800000000000000
+      internalID: -1107474014138593534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 268
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b553646464d9380800000000000000
+      internalID: -8962930415757862031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 276
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57a3d837bafb24c0800000000000000
+      internalID: -4311076553437763747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_18
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 276
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd08bd57074c71280800000000000000
+      internalID: -9072566937021873955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 261
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2cf307e237f0dc0800000000000000
+      internalID: -3670588527994748193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_20
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 260
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09240a041616398b0800000000000000
+      internalID: -5146662878830378352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 245
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90251f7c381358d50800000000000000
+      internalID: 6738846859494773257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_22
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 245
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9daebf2672fc390800000000000000
+      internalID: -7795969123868288556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_23
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 245
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372f02f17a1e25cf0800000000000000
+      internalID: -264901320163397005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_24
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 237
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21413871a0ce6910800000000000000
+      internalID: 1832613898125132075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_25
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 245
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316e5b1587a130130800000000000000
+      internalID: 3531695636857873939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_26
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 159
+        width: 88
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d8579cb931d3ed0800000000000000
+      internalID: -2432766663889416823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_27
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 229
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effd3970fda402c10800000000000000
+      internalID: 2026702154082017278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_28
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 198
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804c625e79e336720800000000000000
+      internalID: 2838181012279051272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_29
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 190
+        width: 10
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc5a47d2daa329d0800000000000000
+      internalID: -2800206720762487601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_30
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 229
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572a36edf6290a800800000000000000
+      internalID: 621657757747225205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_31
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 229
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce491135f77baacd0800000000000000
+      internalID: -2546020881842203412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_32
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 182
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7ac216c9cd4ea10800000000000000
+      internalID: 1937916303879481303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_33
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 206
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea6a6a8f45f80b60800000000000000
+      internalID: 7712684083845425889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_34
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 182
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f759ef208f5aef0800000000000000
+      internalID: -97399125173764277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_35
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 198
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae90426929a31160800000000000000
+      internalID: 6995120641443667627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_36
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 198
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1bb5e69249ea500800000000000000
+      internalID: 409427521803366831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_37
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 182
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7854927fab96a9c70800000000000000
+      internalID: 8978605058848015751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_38
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 182
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df744d4f5c57cc400800000000000000
+      internalID: 345780764477245437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_39
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 182
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0202d91a53a0e1670800000000000000
+      internalID: 8511251571237789728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_40
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 151
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb464b87cd7c5920800000000000000
+      internalID: 2980395349401029596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_41
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 167
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14a41169fabfa6d0800000000000000
+      internalID: -2976955248430242789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_42
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 167
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa5313b9e8b0c460800000000000000
+      internalID: 7260005913192520354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_43
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 143
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181556a493aa05740800000000000000
+      internalID: 5138794337867747713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_44
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 143
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa33bba4c53191350800000000000000
+      internalID: 5987838466677486506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db456552548d273a0800000000000000
+      internalID: -6669030306691525443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_46
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 120
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f42a01eb23e8c990800000000000000
+      internalID: -7365387412965808908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_47
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3acb170540876370800000000000000
+      internalID: 8315756270923270718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_48
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 88
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbdba1b9d3a15d80800000000000000
+      internalID: -8263643685864088619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_49
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 104
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306fc3fd5c5ddac40800000000000000
+      internalID: 5525307363684054531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e784ee40153f630800000000000000
+      internalID: 3959597579008245343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_51
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 89
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23663dffc15f7fdb0800000000000000
+      internalID: -4758064976393705934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_52
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 57
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e743d5ed57fdd9fc0800000000000000
+      internalID: -3486384839180077954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_53
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 10
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e812d345d4f5790800000000000000
+      internalID: -7539222226996720117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_54
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 119
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898698fe4cd0b4780800000000000000
+      internalID: -8697843115852470120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_55
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 73
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0eada07cd2d53020800000000000000
+      internalID: 2320993027204427276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cf874ac323992f0800000000000000
+      internalID: -965685409055441833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_57
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 42
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a90466f89afbbd0800000000000000
+      internalID: -2612182825490671096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_58
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 49
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d6ca7aba2ee38c0800000000000000
+      internalID: -4017524590687523552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_59
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 26
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c328c60770477a60800000000000000
+      internalID: 7671671370207994821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_60
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 26
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a131bd0a60e82430800000000000000
+      internalID: 3758500635141550497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_61
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 26
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82353bfc09e827490800000000000000
+      internalID: -7749975256140131544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_62
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 18
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848c3389a49bab060800000000000000
+      internalID: 6970087103341512776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_63
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 11
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c194f3f7f34e4b0800000000000000
+      internalID: -5412131036437341123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-IDLE-PTIK_64
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 10
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cddd65038957f00800000000000000
+      internalID: 1113963816227298327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      4-IDLE-PTIK_0: -3515796002505609613
+      4-IDLE-PTIK_1: -2650205661517164755
+      4-IDLE-PTIK_10: -8412719420065037189
+      4-IDLE-PTIK_11: 839144346575196881
+      4-IDLE-PTIK_12: -2513504889462575529
+      4-IDLE-PTIK_13: -8597891963971318980
+      4-IDLE-PTIK_14: -786413931104009167
+      4-IDLE-PTIK_15: -1107474014138593534
+      4-IDLE-PTIK_16: -8962930415757862031
+      4-IDLE-PTIK_17: -4311076553437763747
+      4-IDLE-PTIK_18: -9072566937021873955
+      4-IDLE-PTIK_19: -3670588527994748193
+      4-IDLE-PTIK_2: 7663985335239367630
+      4-IDLE-PTIK_20: -5146662878830378352
+      4-IDLE-PTIK_21: 6738846859494773257
+      4-IDLE-PTIK_22: -7795969123868288556
+      4-IDLE-PTIK_23: -264901320163397005
+      4-IDLE-PTIK_24: 1832613898125132075
+      4-IDLE-PTIK_25: 3531695636857873939
+      4-IDLE-PTIK_26: -2432766663889416823
+      4-IDLE-PTIK_27: 2026702154082017278
+      4-IDLE-PTIK_28: 2838181012279051272
+      4-IDLE-PTIK_29: -2800206720762487601
+      4-IDLE-PTIK_3: -5947741316838627656
+      4-IDLE-PTIK_30: 621657757747225205
+      4-IDLE-PTIK_31: -2546020881842203412
+      4-IDLE-PTIK_32: 1937916303879481303
+      4-IDLE-PTIK_33: 7712684083845425889
+      4-IDLE-PTIK_34: -97399125173764277
+      4-IDLE-PTIK_35: 6995120641443667627
+      4-IDLE-PTIK_36: 409427521803366831
+      4-IDLE-PTIK_37: 8978605058848015751
+      4-IDLE-PTIK_38: 345780764477245437
+      4-IDLE-PTIK_39: 8511251571237789728
+      4-IDLE-PTIK_4: 6698957726698076659
+      4-IDLE-PTIK_40: 2980395349401029596
+      4-IDLE-PTIK_41: -2976955248430242789
+      4-IDLE-PTIK_42: 7260005913192520354
+      4-IDLE-PTIK_43: 5138794337867747713
+      4-IDLE-PTIK_44: 5987838466677486506
+      4-IDLE-PTIK_45: -6669030306691525443
+      4-IDLE-PTIK_46: -7365387412965808908
+      4-IDLE-PTIK_47: 8315756270923270718
+      4-IDLE-PTIK_48: -8263643685864088619
+      4-IDLE-PTIK_49: 5525307363684054531
+      4-IDLE-PTIK_5: -33152970315870781
+      4-IDLE-PTIK_50: 3959597579008245343
+      4-IDLE-PTIK_51: -4758064976393705934
+      4-IDLE-PTIK_52: -3486384839180077954
+      4-IDLE-PTIK_53: -7539222226996720117
+      4-IDLE-PTIK_54: -8697843115852470120
+      4-IDLE-PTIK_55: 2320993027204427276
+      4-IDLE-PTIK_56: -965685409055441833
+      4-IDLE-PTIK_57: -2612182825490671096
+      4-IDLE-PTIK_58: -4017524590687523552
+      4-IDLE-PTIK_59: 7671671370207994821
+      4-IDLE-PTIK_6: 4441332613731689696
+      4-IDLE-PTIK_60: 3758500635141550497
+      4-IDLE-PTIK_61: -7749975256140131544
+      4-IDLE-PTIK_62: 6970087103341512776
+      4-IDLE-PTIK_63: -5412131036437341123
+      4-IDLE-PTIK_64: 1113963816227298327
+      4-IDLE-PTIK_7: -2807294632026655311
+      4-IDLE-PTIK_8: 7663457223528764199
+      4-IDLE-PTIK_9: -540423220581132982
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

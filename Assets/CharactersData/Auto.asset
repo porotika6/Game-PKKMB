@@ -15,4 +15,4 @@ MonoBehaviour:
   characterName: Auto
   popupDescription: "Halo, aku Auto maskot dari prodi \nTeknologi Rekayasa Otomasi"
   icon: {fileID: 21300000, guid: 0d7ce0755c142234cbe34d9f973f552a, type: 3}
-  gameplayPrefab: {fileID: 42789016384494613, guid: a9253e530a36a4d42a76fe29d903ff03, type: 3}
+  gameplayPrefab: {fileID: 1191060537753458077, guid: 7933a6bebc7a5f941858e2ca6e1d586e, type: 3}

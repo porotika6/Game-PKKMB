@@ -36,7 +36,7 @@ public class PauseMenuUI : MonoBehaviour
     }
     void Update()
     {
-        if (Countdown.instance != null && Countdown.instance.IsCountingDown) return;
+        if (StartGame.instance != null && StartGame.instance.IsCountingDown) return;
 
         if (_pauseAction.WasPressedThisFrame())
         {
@@ -54,14 +54,14 @@ public class PauseMenuUI : MonoBehaviour
     }
     public void ResumeGame()
     {
-        if(Countdown.instance != null && Countdown.instance.IsCountingDown) return;
+        if(StartGame.instance != null && StartGame.instance.IsCountingDown) return;
         _pauseButton.SetActive(true);
         StartCoroutine(ResumeAfterhCountdown());
     }
     private IEnumerator ResumeAfterhCountdown()
     {
         _pausePanel.SetActive(false);
-        yield return StartCoroutine(Countdown.instance.StartCountdown());
+        yield return StartCoroutine(StartGame.instance.StartCountdown());
 
         _isPaused = false;
         if (_bgmSource != null) _bgmSource.UnPause();

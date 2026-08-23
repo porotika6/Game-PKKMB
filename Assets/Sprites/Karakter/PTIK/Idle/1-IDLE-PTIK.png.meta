@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: db7382f83b0bdd242ae6fd605b944a3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1448575913139927493
+    second: 1-IDLE-PTIK_0
+  - first:
+      213: -2460554086697397059
+    second: 1-IDLE-PTIK_1
+  - first:
+      213: 3188771800368296002
+    second: 1-IDLE-PTIK_2
+  - first:
+      213: 2542081306531892363
+    second: 1-IDLE-PTIK_3
+  - first:
+      213: 5127824689442514587
+    second: 1-IDLE-PTIK_4
+  - first:
+      213: 2578148823564407666
+    second: 1-IDLE-PTIK_5
+  - first:
+      213: 3314003351081521725
+    second: 1-IDLE-PTIK_6
+  - first:
+      213: -5272931858589071571
+    second: 1-IDLE-PTIK_7
+  - first:
+      213: -1996203132787493938
+    second: 1-IDLE-PTIK_8
+  - first:
+      213: 4483499371271082667
+    second: 1-IDLE-PTIK_9
+  - first:
+      213: -243436748981310140
+    second: 1-IDLE-PTIK_10
+  - first:
+      213: 332382278575472537
+    second: 1-IDLE-PTIK_11
+  - first:
+      213: -501852868707936601
+    second: 1-IDLE-PTIK_12
+  - first:
+      213: -8334442500148792196
+    second: 1-IDLE-PTIK_13
+  - first:
+      213: -7039945239078942523
+    second: 1-IDLE-PTIK_14
+  - first:
+      213: -4987963490909836740
+    second: 1-IDLE-PTIK_15
+  - first:
+      213: -1260239477643455258
+    second: 1-IDLE-PTIK_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1-IDLE-PTIK_0
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 1491
+        height: 2048
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b368b13c1ef95ebe0800000000000000
+      internalID: -1448575913139927493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-IDLE-PTIK_1
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 1532
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db414cf381b5addd0800000000000000
+      internalID: -2460554086697397059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-IDLE-PTIK_2
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1269
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2403cbebe0bc04c20800000000000000
+      internalID: 3188771800368296002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-IDLE-PTIK_3
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1245
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c8ef1da79474320800000000000000
+      internalID: 2542081306531892363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-IDLE-PTIK_4
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 1078
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96e2bcf261b92740800000000000000
+      internalID: 5127824689442514587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-IDLE-PTIK_5
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 1014
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273d5a602bc67c320800000000000000
+      internalID: 2578148823564407666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-IDLE-PTIK_6
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 799
+        width: 37
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d321bad4d74bdfd20800000000000000
+      internalID: 3314003351081521725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-IDLE-PTIK_7
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 162
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2745fb6968c2d6b0800000000000000
+      internalID: -5272931858589071571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-IDLE-PTIK_8
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 162
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3fdaab3df0c44e0800000000000000
+      internalID: -1996203132787493938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-IDLE-PTIK_9
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 146
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2dc4f6ce6983e30800000000000000
+      internalID: 4483499371271082667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-IDLE-PTIK_10
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 146
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d61bb01932f9cf0800000000000000
+      internalID: -243436748981310140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-IDLE-PTIK_11
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f302cdbebdc9400800000000000000
+      internalID: 332382278575472537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-IDLE-PTIK_12
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 98
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6172f897f0909f0800000000000000
+      internalID: -501852868707936601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-IDLE-PTIK_13
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 51
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7476b134bc165c80800000000000000
+      internalID: -8334442500148792196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-IDLE-PTIK_14
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 11
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c84f72ba171d4e90800000000000000
+      internalID: -7039945239078942523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-IDLE-PTIK_15
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 19
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3aa3b3e1a137cab0800000000000000
+      internalID: -4987963490909836740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-IDLE-PTIK_16
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e453234fdab28ee0800000000000000
+      internalID: -1260239477643455258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1-IDLE-PTIK_0: -1448575913139927493
+      1-IDLE-PTIK_1: -2460554086697397059
+      1-IDLE-PTIK_10: -243436748981310140
+      1-IDLE-PTIK_11: 332382278575472537
+      1-IDLE-PTIK_12: -501852868707936601
+      1-IDLE-PTIK_13: -8334442500148792196
+      1-IDLE-PTIK_14: -7039945239078942523
+      1-IDLE-PTIK_15: -4987963490909836740
+      1-IDLE-PTIK_16: -1260239477643455258
+      1-IDLE-PTIK_2: 3188771800368296002
+      1-IDLE-PTIK_3: 2542081306531892363
+      1-IDLE-PTIK_4: 5127824689442514587
+      1-IDLE-PTIK_5: 2578148823564407666
+      1-IDLE-PTIK_6: 3314003351081521725
+      1-IDLE-PTIK_7: -5272931858589071571
+      1-IDLE-PTIK_8: -1996203132787493938
+      1-IDLE-PTIK_9: 4483499371271082667
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

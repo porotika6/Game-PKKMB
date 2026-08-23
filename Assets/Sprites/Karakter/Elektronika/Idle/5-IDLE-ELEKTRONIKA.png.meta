@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 6a9beaf1f6f0ce14eb79a2d0bc9e624b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4425536420534332497
+    second: 5-IDLE-ELEKTRONIKA_0
+  - first:
+      213: -7511821005544991584
+    second: 5-IDLE-ELEKTRONIKA_1
+  - first:
+      213: -6644147530563608891
+    second: 5-IDLE-ELEKTRONIKA_2
+  - first:
+      213: -7510590596317817513
+    second: 5-IDLE-ELEKTRONIKA_3
+  - first:
+      213: -6049913407537191907
+    second: 5-IDLE-ELEKTRONIKA_4
+  - first:
+      213: 2021273944217979059
+    second: 5-IDLE-ELEKTRONIKA_5
+  - first:
+      213: 1274017130126150322
+    second: 5-IDLE-ELEKTRONIKA_6
+  - first:
+      213: 7146031171937365650
+    second: 5-IDLE-ELEKTRONIKA_7
+  - first:
+      213: 2476963386066891085
+    second: 5-IDLE-ELEKTRONIKA_8
+  - first:
+      213: -7052877600618311537
+    second: 5-IDLE-ELEKTRONIKA_9
+  - first:
+      213: -7459846990363381239
+    second: 5-IDLE-ELEKTRONIKA_10
+  - first:
+      213: 2859360261867096303
+    second: 5-IDLE-ELEKTRONIKA_11
+  - first:
+      213: 619546352018239370
+    second: 5-IDLE-ELEKTRONIKA_12
+  - first:
+      213: 5179598058698824084
+    second: 5-IDLE-ELEKTRONIKA_13
+  - first:
+      213: -6735114846914202224
+    second: 5-IDLE-ELEKTRONIKA_14
+  - first:
+      213: -6108318080950456598
+    second: 5-IDLE-ELEKTRONIKA_15
+  - first:
+      213: -7374853095583596290
+    second: 5-IDLE-ELEKTRONIKA_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 5-IDLE-ELEKTRONIKA_0
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1222
+        width: 58
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa35f71b2165592c0800000000000000
+      internalID: -4425536420534332497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-IDLE-ELEKTRONIKA_1
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 1294
+        height: 2046
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a45c244896a0c790800000000000000
+      internalID: -7511821005544991584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-IDLE-ELEKTRONIKA_2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 975
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce977de50f3bc3a0800000000000000
+      internalID: -6644147530563608891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-IDLE-ELEKTRONIKA_3
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 645
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755561d35a505c790800000000000000
+      internalID: -7510590596317817513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-IDLE-ELEKTRONIKA_4
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 367
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d146fd54fc36a0ca0800000000000000
+      internalID: -6049913407537191907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-IDLE-ELEKTRONIKA_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 367
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b88dde61f10d0c10800000000000000
+      internalID: 2021273944217979059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-IDLE-ELEKTRONIKA_6
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 357
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba8eee64d73ea110800000000000000
+      internalID: 1274017130126150322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-IDLE-ELEKTRONIKA_7
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 357
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ee1355d7dcb2360800000000000000
+      internalID: 7146031171937365650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-IDLE-ELEKTRONIKA_8
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 357
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d417a2c7311ff5220800000000000000
+      internalID: 2476963386066891085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-IDLE-ELEKTRONIKA_9
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 314
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8016d2a0352f1e90800000000000000
+      internalID: -7052877600618311537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-IDLE-ELEKTRONIKA_10
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 346
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902bf9cafac497890800000000000000
+      internalID: -7459846990363381239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-IDLE-ELEKTRONIKA_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 346
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8c475320d7ea720800000000000000
+      internalID: 2859360261867096303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-IDLE-ELEKTRONIKA_12
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 335
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fafe9ef12199800800000000000000
+      internalID: 619546352018239370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-IDLE-ELEKTRONIKA_13
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 335
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499db00edf0a1e740800000000000000
+      internalID: 5179598058698824084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-IDLE-ELEKTRONIKA_14
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 325
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095383c1bb01882a0800000000000000
+      internalID: -6735114846914202224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-IDLE-ELEKTRONIKA_15
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 175
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee2ad19115ea3ba0800000000000000
+      internalID: -6108318080950456598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-IDLE-ELEKTRONIKA_16
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 41
+        width: 8
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0cc07ee2247a990800000000000000
+      internalID: -7374853095583596290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      5-IDLE-ELEKTRONIKA_0: -4425536420534332497
+      5-IDLE-ELEKTRONIKA_1: -7511821005544991584
+      5-IDLE-ELEKTRONIKA_10: -7459846990363381239
+      5-IDLE-ELEKTRONIKA_11: 2859360261867096303
+      5-IDLE-ELEKTRONIKA_12: 619546352018239370
+      5-IDLE-ELEKTRONIKA_13: 5179598058698824084
+      5-IDLE-ELEKTRONIKA_14: -6735114846914202224
+      5-IDLE-ELEKTRONIKA_15: -6108318080950456598
+      5-IDLE-ELEKTRONIKA_16: -7374853095583596290
+      5-IDLE-ELEKTRONIKA_2: -6644147530563608891
+      5-IDLE-ELEKTRONIKA_3: -7510590596317817513
+      5-IDLE-ELEKTRONIKA_4: -6049913407537191907
+      5-IDLE-ELEKTRONIKA_5: 2021273944217979059
+      5-IDLE-ELEKTRONIKA_6: 1274017130126150322
+      5-IDLE-ELEKTRONIKA_7: 7146031171937365650
+      5-IDLE-ELEKTRONIKA_8: 2476963386066891085
+      5-IDLE-ELEKTRONIKA_9: -7052877600618311537
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

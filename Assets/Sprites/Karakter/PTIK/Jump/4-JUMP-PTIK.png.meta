@@ -1,0 +1,4056 @@
+fileFormatVersion: 2
+guid: 200062c7ecac1924fb829810ba6f02bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4963337850687776343
+    second: 4-JUMP-PTIK_0
+  - first:
+      213: 4270275021481337509
+    second: 4-JUMP-PTIK_1
+  - first:
+      213: -7115946077432540935
+    second: 4-JUMP-PTIK_2
+  - first:
+      213: -4495461102375465620
+    second: 4-JUMP-PTIK_3
+  - first:
+      213: -1293307554115715663
+    second: 4-JUMP-PTIK_4
+  - first:
+      213: 8483493655862895198
+    second: 4-JUMP-PTIK_5
+  - first:
+      213: -1649955979367536327
+    second: 4-JUMP-PTIK_6
+  - first:
+      213: 2280655591265496262
+    second: 4-JUMP-PTIK_7
+  - first:
+      213: -7417326380308294664
+    second: 4-JUMP-PTIK_8
+  - first:
+      213: 7295948529932686424
+    second: 4-JUMP-PTIK_9
+  - first:
+      213: 4864838554126801673
+    second: 4-JUMP-PTIK_10
+  - first:
+      213: 7916736135614554573
+    second: 4-JUMP-PTIK_11
+  - first:
+      213: 8589324424748860330
+    second: 4-JUMP-PTIK_12
+  - first:
+      213: -6204713984973362298
+    second: 4-JUMP-PTIK_13
+  - first:
+      213: -5047807330772147287
+    second: 4-JUMP-PTIK_14
+  - first:
+      213: -2712409741587614672
+    second: 4-JUMP-PTIK_15
+  - first:
+      213: -4194183275012132077
+    second: 4-JUMP-PTIK_16
+  - first:
+      213: 7872477172582064495
+    second: 4-JUMP-PTIK_17
+  - first:
+      213: 1378504285499949023
+    second: 4-JUMP-PTIK_18
+  - first:
+      213: -6734526549694179999
+    second: 4-JUMP-PTIK_19
+  - first:
+      213: 63250568378757656
+    second: 4-JUMP-PTIK_20
+  - first:
+      213: -1490877720516436904
+    second: 4-JUMP-PTIK_21
+  - first:
+      213: -4632476920854741987
+    second: 4-JUMP-PTIK_22
+  - first:
+      213: 7183299223565092701
+    second: 4-JUMP-PTIK_23
+  - first:
+      213: -2669442281252459740
+    second: 4-JUMP-PTIK_24
+  - first:
+      213: 5016020176906780331
+    second: 4-JUMP-PTIK_25
+  - first:
+      213: 946323200013167960
+    second: 4-JUMP-PTIK_26
+  - first:
+      213: 4090877493163208508
+    second: 4-JUMP-PTIK_27
+  - first:
+      213: 622959423022550487
+    second: 4-JUMP-PTIK_28
+  - first:
+      213: 4353731537818453740
+    second: 4-JUMP-PTIK_29
+  - first:
+      213: 2318397252483292670
+    second: 4-JUMP-PTIK_30
+  - first:
+      213: -6584925841441811846
+    second: 4-JUMP-PTIK_31
+  - first:
+      213: -7101337652944978419
+    second: 4-JUMP-PTIK_32
+  - first:
+      213: -7567390730609263547
+    second: 4-JUMP-PTIK_33
+  - first:
+      213: -3846472226911759977
+    second: 4-JUMP-PTIK_34
+  - first:
+      213: -2431514662191157292
+    second: 4-JUMP-PTIK_35
+  - first:
+      213: -6082147590067107258
+    second: 4-JUMP-PTIK_36
+  - first:
+      213: -5472526643354715443
+    second: 4-JUMP-PTIK_37
+  - first:
+      213: 3487295772233738418
+    second: 4-JUMP-PTIK_38
+  - first:
+      213: -5436275061410307674
+    second: 4-JUMP-PTIK_39
+  - first:
+      213: -8408397961791633530
+    second: 4-JUMP-PTIK_40
+  - first:
+      213: 4917214692975267112
+    second: 4-JUMP-PTIK_41
+  - first:
+      213: -7937147385481752118
+    second: 4-JUMP-PTIK_42
+  - first:
+      213: 5448671921481134226
+    second: 4-JUMP-PTIK_43
+  - first:
+      213: -6191728339006775949
+    second: 4-JUMP-PTIK_44
+  - first:
+      213: -5026448547195045612
+    second: 4-JUMP-PTIK_45
+  - first:
+      213: -6377236101112182014
+    second: 4-JUMP-PTIK_46
+  - first:
+      213: -7842143969333914562
+    second: 4-JUMP-PTIK_47
+  - first:
+      213: -3763541907433157032
+    second: 4-JUMP-PTIK_48
+  - first:
+      213: 90480860156495649
+    second: 4-JUMP-PTIK_49
+  - first:
+      213: -8921705378859174273
+    second: 4-JUMP-PTIK_50
+  - first:
+      213: 5682175378576858368
+    second: 4-JUMP-PTIK_51
+  - first:
+      213: -335684393314757017
+    second: 4-JUMP-PTIK_52
+  - first:
+      213: -5575784514757031959
+    second: 4-JUMP-PTIK_53
+  - first:
+      213: 802974048989831755
+    second: 4-JUMP-PTIK_54
+  - first:
+      213: -724287205113758836
+    second: 4-JUMP-PTIK_55
+  - first:
+      213: -5338597489584790877
+    second: 4-JUMP-PTIK_56
+  - first:
+      213: 4976498879731691510
+    second: 4-JUMP-PTIK_57
+  - first:
+      213: 8957767985674994067
+    second: 4-JUMP-PTIK_58
+  - first:
+      213: -1179448352888755142
+    second: 4-JUMP-PTIK_59
+  - first:
+      213: -6700553189693873959
+    second: 4-JUMP-PTIK_60
+  - first:
+      213: 129153561623363328
+    second: 4-JUMP-PTIK_61
+  - first:
+      213: -3511757044532991957
+    second: 4-JUMP-PTIK_62
+  - first:
+      213: 4463057064281909227
+    second: 4-JUMP-PTIK_63
+  - first:
+      213: 3922705576961834441
+    second: 4-JUMP-PTIK_64
+  - first:
+      213: -7177540629038236776
+    second: 4-JUMP-PTIK_65
+  - first:
+      213: 5293135265338582940
+    second: 4-JUMP-PTIK_66
+  - first:
+      213: -4377999203286721577
+    second: 4-JUMP-PTIK_67
+  - first:
+      213: 301752051768290829
+    second: 4-JUMP-PTIK_68
+  - first:
+      213: 3820107950110906
+    second: 4-JUMP-PTIK_69
+  - first:
+      213: -848612440040370499
+    second: 4-JUMP-PTIK_70
+  - first:
+      213: -6773936374453869688
+    second: 4-JUMP-PTIK_71
+  - first:
+      213: 2124757959144510339
+    second: 4-JUMP-PTIK_72
+  - first:
+      213: 4599713136369480212
+    second: 4-JUMP-PTIK_73
+  - first:
+      213: -8770923975966265068
+    second: 4-JUMP-PTIK_74
+  - first:
+      213: 7841262563018500905
+    second: 4-JUMP-PTIK_75
+  - first:
+      213: 4445454342702246219
+    second: 4-JUMP-PTIK_76
+  - first:
+      213: 1905896617228855744
+    second: 4-JUMP-PTIK_77
+  - first:
+      213: -61264638585996685
+    second: 4-JUMP-PTIK_78
+  - first:
+      213: -4492404103432865236
+    second: 4-JUMP-PTIK_79
+  - first:
+      213: -3891112082669459080
+    second: 4-JUMP-PTIK_80
+  - first:
+      213: -1371659285760891936
+    second: 4-JUMP-PTIK_81
+  - first:
+      213: 7057143391313639007
+    second: 4-JUMP-PTIK_82
+  - first:
+      213: -6020321664480776066
+    second: 4-JUMP-PTIK_83
+  - first:
+      213: 3557554410000179762
+    second: 4-JUMP-PTIK_84
+  - first:
+      213: -4058425533147758155
+    second: 4-JUMP-PTIK_85
+  - first:
+      213: 4012414915448259683
+    second: 4-JUMP-PTIK_86
+  - first:
+      213: -8759042072296469261
+    second: 4-JUMP-PTIK_87
+  - first:
+      213: 5832514452616636898
+    second: 4-JUMP-PTIK_88
+  - first:
+      213: -6914543023102720430
+    second: 4-JUMP-PTIK_89
+  - first:
+      213: 1845683636776382439
+    second: 4-JUMP-PTIK_90
+  - first:
+      213: -898862119112134219
+    second: 4-JUMP-PTIK_91
+  - first:
+      213: -4316465451141368781
+    second: 4-JUMP-PTIK_92
+  - first:
+      213: -9134792785789457672
+    second: 4-JUMP-PTIK_93
+  - first:
+      213: 4868171399905386749
+    second: 4-JUMP-PTIK_94
+  - first:
+      213: 3552343252351696173
+    second: 4-JUMP-PTIK_95
+  - first:
+      213: -8164899356469190982
+    second: 4-JUMP-PTIK_96
+  - first:
+      213: 3731766041921731897
+    second: 4-JUMP-PTIK_97
+  - first:
+      213: 7297531471486648422
+    second: 4-JUMP-PTIK_98
+  - first:
+      213: -6877428483069789125
+    second: 4-JUMP-PTIK_99
+  - first:
+      213: 8335063092317668613
+    second: 4-JUMP-PTIK_100
+  - first:
+      213: -3073393754604569550
+    second: 4-JUMP-PTIK_101
+  - first:
+      213: 5171008607521567410
+    second: 4-JUMP-PTIK_102
+  - first:
+      213: 5751723728612624220
+    second: 4-JUMP-PTIK_103
+  - first:
+      213: 3261435084769963332
+    second: 4-JUMP-PTIK_104
+  - first:
+      213: -2486327740751163126
+    second: 4-JUMP-PTIK_105
+  - first:
+      213: 696852074309741806
+    second: 4-JUMP-PTIK_106
+  - first:
+      213: -7484745843993070737
+    second: 4-JUMP-PTIK_107
+  - first:
+      213: -3840588389991318547
+    second: 4-JUMP-PTIK_108
+  - first:
+      213: 3676520766008299352
+    second: 4-JUMP-PTIK_109
+  - first:
+      213: 8429978013019305022
+    second: 4-JUMP-PTIK_110
+  - first:
+      213: -6442469918764482085
+    second: 4-JUMP-PTIK_111
+  - first:
+      213: 5564077590683719633
+    second: 4-JUMP-PTIK_112
+  - first:
+      213: 7798868310913616463
+    second: 4-JUMP-PTIK_113
+  - first:
+      213: -8438623802789907784
+    second: 4-JUMP-PTIK_114
+  - first:
+      213: 5976599601760349993
+    second: 4-JUMP-PTIK_115
+  - first:
+      213: -2487788037338404461
+    second: 4-JUMP-PTIK_116
+  - first:
+      213: 8805606876261278594
+    second: 4-JUMP-PTIK_117
+  - first:
+      213: 7490222745050514227
+    second: 4-JUMP-PTIK_118
+  - first:
+      213: -57260858384241316
+    second: 4-JUMP-PTIK_119
+  - first:
+      213: -2085331537235646384
+    second: 4-JUMP-PTIK_120
+  - first:
+      213: 5403419495727732373
+    second: 4-JUMP-PTIK_121
+  - first:
+      213: -2295365318260199628
+    second: 4-JUMP-PTIK_122
+  - first:
+      213: -4193001198314987709
+    second: 4-JUMP-PTIK_123
+  - first:
+      213: 2410482981936699918
+    second: 4-JUMP-PTIK_124
+  - first:
+      213: 5833689244460717998
+    second: 4-JUMP-PTIK_125
+  - first:
+      213: 80442448207493319
+    second: 4-JUMP-PTIK_126
+  - first:
+      213: -6182756691377120923
+    second: 4-JUMP-PTIK_127
+  - first:
+      213: -8304470755334660807
+    second: 4-JUMP-PTIK_128
+  - first:
+      213: -4893350850409004070
+    second: 4-JUMP-PTIK_129
+  - first:
+      213: -1127543434989658959
+    second: 4-JUMP-PTIK_130
+  - first:
+      213: -8493419107384424566
+    second: 4-JUMP-PTIK_131
+  - first:
+      213: -7959596799241957798
+    second: 4-JUMP-PTIK_132
+  - first:
+      213: -269770055324699228
+    second: 4-JUMP-PTIK_133
+  - first:
+      213: -4086432117300519587
+    second: 4-JUMP-PTIK_134
+  - first:
+      213: 2610497836610720225
+    second: 4-JUMP-PTIK_135
+  - first:
+      213: -7694082678065875254
+    second: 4-JUMP-PTIK_136
+  - first:
+      213: 2562414263967437615
+    second: 4-JUMP-PTIK_137
+  - first:
+      213: 5834137268508178972
+    second: 4-JUMP-PTIK_138
+  - first:
+      213: -5988944526663838432
+    second: 4-JUMP-PTIK_139
+  - first:
+      213: 7873740972467707139
+    second: 4-JUMP-PTIK_140
+  - first:
+      213: 7769884042709762767
+    second: 4-JUMP-PTIK_141
+  - first:
+      213: 7580432557766917254
+    second: 4-JUMP-PTIK_142
+  - first:
+      213: 7083943252172724665
+    second: 4-JUMP-PTIK_143
+  - first:
+      213: -5477939186799826549
+    second: 4-JUMP-PTIK_144
+  - first:
+      213: 7701997423672010503
+    second: 4-JUMP-PTIK_145
+  - first:
+      213: 2315961347093725658
+    second: 4-JUMP-PTIK_146
+  - first:
+      213: 2772452815809759073
+    second: 4-JUMP-PTIK_147
+  - first:
+      213: -2636643789692564286
+    second: 4-JUMP-PTIK_148
+  - first:
+      213: -5921751024633011089
+    second: 4-JUMP-PTIK_149
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 329
+        width: 1711
+        height: 1719
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9118d858eae1bb0800000000000000
+      internalID: -4963337850687776343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_1
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1768
+        width: 499
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a26e94d180134b30800000000000000
+      internalID: 4270275021481337509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_2
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 1758
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f09cc59eb41f3d90800000000000000
+      internalID: -7115946077432540935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_3
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1598
+        width: 101
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d035302f9ec91c0800000000000000
+      internalID: -4495461102375465620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_4
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1689
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd7a9bb1af3d0ee0800000000000000
+      internalID: -1293307554115715663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_5
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 1705
+        width: 17
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52ecf3588c6bb570800000000000000
+      internalID: 8483493655862895198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_6
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 1705
+        width: 9
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93924c257cd2a19e0800000000000000
+      internalID: -1649955979367536327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_7
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1689
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc63644d2486af10800000000000000
+      internalID: 2280655591265496262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_8
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 1690
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3179ea4fc501990800000000000000
+      internalID: -7417326380308294664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_9
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 1689
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854db2a488a604560800000000000000
+      internalID: 7295948529932686424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_10
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1674
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b5a54d3e0638340800000000000000
+      internalID: 4864838554126801673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_11
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1644
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1edc71295eddd60800000000000000
+      internalID: 7916736135614554573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_12
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1636
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa30ebd5e09633770800000000000000
+      internalID: 8589324424748860330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_13
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1628
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ba3c0318d64e9a0800000000000000
+      internalID: -6204713984973362298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_14
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 1613
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3a6b22af592f9b0800000000000000
+      internalID: -5047807330772147287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_15
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1583
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0347c5306b59b5ad0800000000000000
+      internalID: -2712409741587614672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_16
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1582
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313740a78844bc5c0800000000000000
+      internalID: -4194183275012132077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_17
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1582
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61202e3748a04d60800000000000000
+      internalID: 7872477172582064495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_18
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1583
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdff392185e612310800000000000000
+      internalID: 1378504285499949023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_19
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 1510
+        width: 26
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1659a0bb8c72a82a0800000000000000
+      internalID: -6734526549694179999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_20
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1567
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812be0c8e06b0e000800000000000000
+      internalID: 63250568378757656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_21
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1567
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cd219bc965f4be0800000000000000
+      internalID: -1490877720516436904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_22
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 1521
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cf14ec8c226bfb0800000000000000
+      internalID: -4632476920854741987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_23
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1506
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57cfe7c59430b360800000000000000
+      internalID: 7183299223565092701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_24
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1498
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42be985736c34fad0800000000000000
+      internalID: -2669442281252459740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_25
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1491
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae78be56cb7c9540800000000000000
+      internalID: 5016020176906780331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_26
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1506
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85dee73cfe3022d00800000000000000
+      internalID: 946323200013167960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_27
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1506
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f22a7d767b5c830800000000000000
+      internalID: 4090877493163208508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_28
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1506
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddcdbe6b4235a800800000000000000
+      internalID: 622959423022550487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_29
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1491
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6851f34cf8b6c30800000000000000
+      internalID: 4353731537818453740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_30
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1491
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd128a840a9c2020800000000000000
+      internalID: 2318397252483292670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_31
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1491
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72129ce5d4ad94a0800000000000000
+      internalID: -6584925841441811846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_32
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1491
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ebb16770bf27d90800000000000000
+      internalID: -7101337652944978419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_33
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1491
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c7379693a3bf690800000000000000
+      internalID: -7567390730609263547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_34
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1491
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791d48c93e59e9ac0800000000000000
+      internalID: -3846472226911759977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_35
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1476
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df21f52c46814ed0800000000000000
+      internalID: -2431514662191157292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_36
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1476
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a4d8ecdfed79ba0800000000000000
+      internalID: -6082147590067107258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_37
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1476
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca3bf6330ead04b0800000000000000
+      internalID: -5472526643354715443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_38
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1475
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8a6b2470d556030800000000000000
+      internalID: 3487295772233738418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_39
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1460
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1e25f52a87e84b0800000000000000
+      internalID: -5436275061410307674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_40
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 1399
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6878a457a9e5f4b80800000000000000
+      internalID: -8408397961791633530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_41
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1414
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d4f13f5b47d3440800000000000000
+      internalID: 4917214692975267112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_42
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1399
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac19076718699d190800000000000000
+      internalID: -7937147385481752118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_43
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 1078
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29037898e329d9b40800000000000000
+      internalID: 5448671921481134226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_44
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 994
+        width: 42
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d18cf71ef821aa0800000000000000
+      internalID: -6191728339006775949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_45
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 956
+        width: 86
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41939a67da77e3ab0800000000000000
+      internalID: -5026448547195045612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_46
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 971
+        width: 25
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b4968dd818f77a0800000000000000
+      internalID: -6377236101112182014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_47
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 941
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34516efb9b1b2390800000000000000
+      internalID: -7842143969333914562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_48
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 941
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e8626439635cbc0800000000000000
+      internalID: -3763541907433157032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_49
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 941
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1278998ecd3714100800000000000000
+      internalID: 90480860156495649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_50
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 528
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7638662a3cbf2480800000000000000
+      internalID: -8921705378859174273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_51
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 498
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d5b8fb6642bde40800000000000000
+      internalID: 5682175378576858368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_52
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 482
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766d4d3a2d8675bf0800000000000000
+      internalID: -335684393314757017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_53
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 467
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e788cd8685de92b0800000000000000
+      internalID: -5575784514757031959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_54
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 451
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4265e9a4acb42b00800000000000000
+      internalID: 802974048989831755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_55
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 436
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b75d7df90d2f5f0800000000000000
+      internalID: -724287205113758836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_56
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 451
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2a18a4edd79e5b0800000000000000
+      internalID: -5338597489584790877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_57
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 436
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff698f4d53101540800000000000000
+      internalID: 4976498879731691510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_58
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 436
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391468ec582605c70800000000000000
+      internalID: 8957767985674994067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_59
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 436
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c6527d8f1c1afe0800000000000000
+      internalID: -1179448352888755142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_60
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 406
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0afa1006ad203a0800000000000000
+      internalID: -6700553189693873959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_61
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 421
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f7902ea78dac100800000000000000
+      internalID: 129153561623363328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_62
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 421
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28a227f29bb34fc0800000000000000
+      internalID: -3511757044532991957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_63
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 413
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be722d0f0c6ffed30800000000000000
+      internalID: 4463057064281909227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_64
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 421
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdf04950ff307630800000000000000
+      internalID: 3922705576961834441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_65
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 398
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bfd3d73d0446c90800000000000000
+      internalID: -7177540629038236776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_66
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 391
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c976996ca7ef47940800000000000000
+      internalID: 5293135265338582940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_67
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 390
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbd6259be83e33c0800000000000000
+      internalID: -4377999203286721577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_68
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 406
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ee4ef64e9003400800000000000000
+      internalID: 301752051768290829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_69
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 406
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8be513e529d0000800000000000000
+      internalID: 3820107950110906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_70
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 390
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe8a6f5b7f1934f0800000000000000
+      internalID: -848612440040370499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_71
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 390
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883649dd1c42ef1a0800000000000000
+      internalID: -6773936374453869688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_72
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 390
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3831e7c3b18ac7d10800000000000000
+      internalID: 2124757959144510339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_73
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 360
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412300a2ab675df30800000000000000
+      internalID: 4599713136369480212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_74
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 375
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411f29c3d1b674680800000000000000
+      internalID: -8770923975966265068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_75
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 375
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b694b91c2c1dc60800000000000000
+      internalID: 7841262563018500905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_76
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 375
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b492cf1fb2d61bd30800000000000000
+      internalID: 4445454342702246219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_77
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 284
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c96b8020ea137a10800000000000000
+      internalID: 1905896617228855744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_78
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 283
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37af9c3c228562ff0800000000000000
+      internalID: -61264638585996685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_79
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 283
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a706b0546c7a1c0800000000000000
+      internalID: -4492404103432865236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_80
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 284
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879a1434d2efff9c0800000000000000
+      internalID: -3891112082669459080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_81
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 283
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e32b5f9523e6fce0800000000000000
+      internalID: -1371659285760891936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_82
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 291
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56be38268200f160800000000000000
+      internalID: 7057143391313639007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_83
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 283
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70f80bd755837ca0800000000000000
+      internalID: -6020321664480776066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_84
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 268
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2326f2d13e8fe5130800000000000000
+      internalID: 3557554410000179762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_85
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 268
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b14a55ea739da7c0800000000000000
+      internalID: -4058425533147758155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_86
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 268
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364c5ce5b16fea730800000000000000
+      internalID: 4012414915448259683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_87
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 268
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc411484a1a17680800000000000000
+      internalID: -8759042072296469261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_88
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 268
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9eb8f1ef041f050800000000000000
+      internalID: 5832514452616636898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_89
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 268
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2568ecb51cb9a00a0800000000000000
+      internalID: -6914543023102720430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_90
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 268
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efaec12d7f2d9910800000000000000
+      internalID: 1845683636776382439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_91
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 268
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b134404aa99683f0800000000000000
+      internalID: -898862119112134219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_92
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 268
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334f873ba85d814c0800000000000000
+      internalID: -4316465451141368781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_93
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 268
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fae73a0c52ba3180800000000000000
+      internalID: -9134792785789457672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_94
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 268
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0a31578183f8340800000000000000
+      internalID: 4868171399905386749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_95
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 276
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2dbdaced557c4130800000000000000
+      internalID: 3552343252351696173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_96
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 217
+        width: 10
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe96d67b4370be80800000000000000
+      internalID: -8164899356469190982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_97
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 253
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d3c918175e9c330800000000000000
+      internalID: 3731766041921731897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_98
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 260
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6600237953a064560800000000000000
+      internalID: 7297531471486648422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_99
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 253
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cb87a9b377e80a0800000000000000
+      internalID: -6877428483069789125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_100
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 253
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505401ea8b71ca370800000000000000
+      internalID: 8335063092317668613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_101
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 253
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cf3e9e9ac1955d0800000000000000
+      internalID: -3073393754604569550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_102
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 253
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b27fcd6eec13c740800000000000000
+      internalID: 5171008607521567410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_103
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 258
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57042ad14a32df40800000000000000
+      internalID: 5751723728612624220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_104
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 253
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44da5b50ee1f24d20800000000000000
+      internalID: 3261435084769963332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_105
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 245
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01d359c71ace7dd0800000000000000
+      internalID: -2486327740751163126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_106
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 253
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eece93ef447bba900800000000000000
+      internalID: 696852074309741806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_107
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 238
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6336be8f47d02890800000000000000
+      internalID: -7484745843993070737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_108
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 238
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debf316253d73bac0800000000000000
+      internalID: -3840588389991318547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_109
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 238
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f854b5820a50330800000000000000
+      internalID: 3676520766008299352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_110
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 238
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e347e52c65c4df470800000000000000
+      internalID: 8429978013019305022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_111
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 222
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd147e71ebfb796a0800000000000000
+      internalID: -6442469918764482085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_112
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 215
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d71a67c613973d40800000000000000
+      internalID: 5564077590683719633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_113
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 192
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a8e0a98652b3c60800000000000000
+      internalID: 7798868310913616463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_114
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 222
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b23d817c5cf3ea80800000000000000
+      internalID: -8438623802789907784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_115
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 176
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92faaa32ca521f250800000000000000
+      internalID: 5976599601760349993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_116
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 207
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3996afdf5f9997dd0800000000000000
+      internalID: -2487788037338404461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_117
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 207
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2836a43ccccc33a70800000000000000
+      internalID: 8805606876261278594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_118
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 192
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3338947d6ed92f760800000000000000
+      internalID: 7490222745050514227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_119
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 176
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d297c7d81943ff0800000000000000
+      internalID: -57260858384241316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_120
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 138
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0586624f30a6f03e0800000000000000
+      internalID: -2085331537235646384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_121
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 176
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596954f176dccfa40800000000000000
+      internalID: 5403419495727732373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_122
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 177
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f695787693520e0800000000000000
+      internalID: -2295365318260199628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_123
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 131
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fd5a720a77fc5c0800000000000000
+      internalID: -4193001198314987709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_124
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 169
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a16733081c37120800000000000000
+      internalID: 2410482981936699918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_125
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 176
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7191aa57d65f050800000000000000
+      internalID: 5833689244460717998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_126
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 161
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8354efaf9cd1100800000000000000
+      internalID: 80442448207493319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_127
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 161
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5691ccdfb8f623aa0800000000000000
+      internalID: -6182756691377120923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_128
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 161
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d58a4d8d790cc80800000000000000
+      internalID: -8304470755334660807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_129
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 161
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad30400e353571cb0800000000000000
+      internalID: -4893350850409004070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_130
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 161
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc1e9848392a50f0800000000000000
+      internalID: -1127543434989658959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_131
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 146
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8706d76250512a80800000000000000
+      internalID: -8493419107384424566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_132
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 161
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ec8d102e4d98190800000000000000
+      internalID: -7959596799241957798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_133
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 146
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a575516095914cf0800000000000000
+      internalID: -269770055324699228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_134
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 146
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d1e81e3a31a47c0800000000000000
+      internalID: -4086432117300519587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_135
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 146
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e19b1e83f95a3420800000000000000
+      internalID: 2610497836610720225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_136
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 146
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6b56db190293590800000000000000
+      internalID: -7694082678065875254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_137
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 146
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f235c2362368f8320800000000000000
+      internalID: 2562414263967437615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_138
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 131
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a3c446fe407f050800000000000000
+      internalID: 5834137268508178972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_139
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 131
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0259eac0faef2eca0800000000000000
+      internalID: -5988944526663838432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_140
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 131
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d506592b5254d60800000000000000
+      internalID: 7873740972467707139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_141
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 123
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc201b7ce5c24db60800000000000000
+      internalID: 7769884042709762767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_142
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 115
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cb0899f3b133960800000000000000
+      internalID: 7580432557766917254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_143
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 115
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9d7c20bd83f4260800000000000000
+      internalID: 7083943252172724665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_144
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 99
+        width: 116
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89aa9d35537af3b0800000000000000
+      internalID: -5477939186799826549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_145
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 115
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707a1f299ddf2ea60800000000000000
+      internalID: 7701997423672010503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_146
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 98
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad18e0f1392f32020800000000000000
+      internalID: 2315961347093725658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_147
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 99
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1674fda952bb97620800000000000000
+      internalID: 2772452815809759073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_148
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 103
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc822c5172c86bd0800000000000000
+      internalID: -2636643789692564286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-JUMP-PTIK_149
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64a17061d6b1dda0800000000000000
+      internalID: -5921751024633011089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      4-JUMP-PTIK_0: -4963337850687776343
+      4-JUMP-PTIK_1: 4270275021481337509
+      4-JUMP-PTIK_10: 4864838554126801673
+      4-JUMP-PTIK_100: 8335063092317668613
+      4-JUMP-PTIK_101: -3073393754604569550
+      4-JUMP-PTIK_102: 5171008607521567410
+      4-JUMP-PTIK_103: 5751723728612624220
+      4-JUMP-PTIK_104: 3261435084769963332
+      4-JUMP-PTIK_105: -2486327740751163126
+      4-JUMP-PTIK_106: 696852074309741806
+      4-JUMP-PTIK_107: -7484745843993070737
+      4-JUMP-PTIK_108: -3840588389991318547
+      4-JUMP-PTIK_109: 3676520766008299352
+      4-JUMP-PTIK_11: 7916736135614554573
+      4-JUMP-PTIK_110: 8429978013019305022
+      4-JUMP-PTIK_111: -6442469918764482085
+      4-JUMP-PTIK_112: 5564077590683719633
+      4-JUMP-PTIK_113: 7798868310913616463
+      4-JUMP-PTIK_114: -8438623802789907784
+      4-JUMP-PTIK_115: 5976599601760349993
+      4-JUMP-PTIK_116: -2487788037338404461
+      4-JUMP-PTIK_117: 8805606876261278594
+      4-JUMP-PTIK_118: 7490222745050514227
+      4-JUMP-PTIK_119: -57260858384241316
+      4-JUMP-PTIK_12: 8589324424748860330
+      4-JUMP-PTIK_120: -2085331537235646384
+      4-JUMP-PTIK_121: 5403419495727732373
+      4-JUMP-PTIK_122: -2295365318260199628
+      4-JUMP-PTIK_123: -4193001198314987709
+      4-JUMP-PTIK_124: 2410482981936699918
+      4-JUMP-PTIK_125: 5833689244460717998
+      4-JUMP-PTIK_126: 80442448207493319
+      4-JUMP-PTIK_127: -6182756691377120923
+      4-JUMP-PTIK_128: -8304470755334660807
+      4-JUMP-PTIK_129: -4893350850409004070
+      4-JUMP-PTIK_13: -6204713984973362298
+      4-JUMP-PTIK_130: -1127543434989658959
+      4-JUMP-PTIK_131: -8493419107384424566
+      4-JUMP-PTIK_132: -7959596799241957798
+      4-JUMP-PTIK_133: -269770055324699228
+      4-JUMP-PTIK_134: -4086432117300519587
+      4-JUMP-PTIK_135: 2610497836610720225
+      4-JUMP-PTIK_136: -7694082678065875254
+      4-JUMP-PTIK_137: 2562414263967437615
+      4-JUMP-PTIK_138: 5834137268508178972
+      4-JUMP-PTIK_139: -5988944526663838432
+      4-JUMP-PTIK_14: -5047807330772147287
+      4-JUMP-PTIK_140: 7873740972467707139
+      4-JUMP-PTIK_141: 7769884042709762767
+      4-JUMP-PTIK_142: 7580432557766917254
+      4-JUMP-PTIK_143: 7083943252172724665
+      4-JUMP-PTIK_144: -5477939186799826549
+      4-JUMP-PTIK_145: 7701997423672010503
+      4-JUMP-PTIK_146: 2315961347093725658
+      4-JUMP-PTIK_147: 2772452815809759073
+      4-JUMP-PTIK_148: -2636643789692564286
+      4-JUMP-PTIK_149: -5921751024633011089
+      4-JUMP-PTIK_15: -2712409741587614672
+      4-JUMP-PTIK_16: -4194183275012132077
+      4-JUMP-PTIK_17: 7872477172582064495
+      4-JUMP-PTIK_18: 1378504285499949023
+      4-JUMP-PTIK_19: -6734526549694179999
+      4-JUMP-PTIK_2: -7115946077432540935
+      4-JUMP-PTIK_20: 63250568378757656
+      4-JUMP-PTIK_21: -1490877720516436904
+      4-JUMP-PTIK_22: -4632476920854741987
+      4-JUMP-PTIK_23: 7183299223565092701
+      4-JUMP-PTIK_24: -2669442281252459740
+      4-JUMP-PTIK_25: 5016020176906780331
+      4-JUMP-PTIK_26: 946323200013167960
+      4-JUMP-PTIK_27: 4090877493163208508
+      4-JUMP-PTIK_28: 622959423022550487
+      4-JUMP-PTIK_29: 4353731537818453740
+      4-JUMP-PTIK_3: -4495461102375465620
+      4-JUMP-PTIK_30: 2318397252483292670
+      4-JUMP-PTIK_31: -6584925841441811846
+      4-JUMP-PTIK_32: -7101337652944978419
+      4-JUMP-PTIK_33: -7567390730609263547
+      4-JUMP-PTIK_34: -3846472226911759977
+      4-JUMP-PTIK_35: -2431514662191157292
+      4-JUMP-PTIK_36: -6082147590067107258
+      4-JUMP-PTIK_37: -5472526643354715443
+      4-JUMP-PTIK_38: 3487295772233738418
+      4-JUMP-PTIK_39: -5436275061410307674
+      4-JUMP-PTIK_4: -1293307554115715663
+      4-JUMP-PTIK_40: -8408397961791633530
+      4-JUMP-PTIK_41: 4917214692975267112
+      4-JUMP-PTIK_42: -7937147385481752118
+      4-JUMP-PTIK_43: 5448671921481134226
+      4-JUMP-PTIK_44: -6191728339006775949
+      4-JUMP-PTIK_45: -5026448547195045612
+      4-JUMP-PTIK_46: -6377236101112182014
+      4-JUMP-PTIK_47: -7842143969333914562
+      4-JUMP-PTIK_48: -3763541907433157032
+      4-JUMP-PTIK_49: 90480860156495649
+      4-JUMP-PTIK_5: 8483493655862895198
+      4-JUMP-PTIK_50: -8921705378859174273
+      4-JUMP-PTIK_51: 5682175378576858368
+      4-JUMP-PTIK_52: -335684393314757017
+      4-JUMP-PTIK_53: -5575784514757031959
+      4-JUMP-PTIK_54: 802974048989831755
+      4-JUMP-PTIK_55: -724287205113758836
+      4-JUMP-PTIK_56: -5338597489584790877
+      4-JUMP-PTIK_57: 4976498879731691510
+      4-JUMP-PTIK_58: 8957767985674994067
+      4-JUMP-PTIK_59: -1179448352888755142
+      4-JUMP-PTIK_6: -1649955979367536327
+      4-JUMP-PTIK_60: -6700553189693873959
+      4-JUMP-PTIK_61: 129153561623363328
+      4-JUMP-PTIK_62: -3511757044532991957
+      4-JUMP-PTIK_63: 4463057064281909227
+      4-JUMP-PTIK_64: 3922705576961834441
+      4-JUMP-PTIK_65: -7177540629038236776
+      4-JUMP-PTIK_66: 5293135265338582940
+      4-JUMP-PTIK_67: -4377999203286721577
+      4-JUMP-PTIK_68: 301752051768290829
+      4-JUMP-PTIK_69: 3820107950110906
+      4-JUMP-PTIK_7: 2280655591265496262
+      4-JUMP-PTIK_70: -848612440040370499
+      4-JUMP-PTIK_71: -6773936374453869688
+      4-JUMP-PTIK_72: 2124757959144510339
+      4-JUMP-PTIK_73: 4599713136369480212
+      4-JUMP-PTIK_74: -8770923975966265068
+      4-JUMP-PTIK_75: 7841262563018500905
+      4-JUMP-PTIK_76: 4445454342702246219
+      4-JUMP-PTIK_77: 1905896617228855744
+      4-JUMP-PTIK_78: -61264638585996685
+      4-JUMP-PTIK_79: -4492404103432865236
+      4-JUMP-PTIK_8: -7417326380308294664
+      4-JUMP-PTIK_80: -3891112082669459080
+      4-JUMP-PTIK_81: -1371659285760891936
+      4-JUMP-PTIK_82: 7057143391313639007
+      4-JUMP-PTIK_83: -6020321664480776066
+      4-JUMP-PTIK_84: 3557554410000179762
+      4-JUMP-PTIK_85: -4058425533147758155
+      4-JUMP-PTIK_86: 4012414915448259683
+      4-JUMP-PTIK_87: -8759042072296469261
+      4-JUMP-PTIK_88: 5832514452616636898
+      4-JUMP-PTIK_89: -6914543023102720430
+      4-JUMP-PTIK_9: 7295948529932686424
+      4-JUMP-PTIK_90: 1845683636776382439
+      4-JUMP-PTIK_91: -898862119112134219
+      4-JUMP-PTIK_92: -4316465451141368781
+      4-JUMP-PTIK_93: -9134792785789457672
+      4-JUMP-PTIK_94: 4868171399905386749
+      4-JUMP-PTIK_95: 3552343252351696173
+      4-JUMP-PTIK_96: -8164899356469190982
+      4-JUMP-PTIK_97: 3731766041921731897
+      4-JUMP-PTIK_98: 7297531471486648422
+      4-JUMP-PTIK_99: -6877428483069789125
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
