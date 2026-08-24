@@ -130,6 +130,7 @@ GameObject:
   - component: {fileID: 4651574373948244008}
   - component: {fileID: 2669292342160256100}
   - component: {fileID: 2539223634945852778}
+  - component: {fileID: 3569771394696309625}
   m_Layer: 0
   m_Name: TRO 1
   m_TagString: Player
@@ -308,6 +309,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerAnimator
   animator: {fileID: 1270962165735826674}
   rb: {fileID: 8880697748548900055}
+--- !u!114 &3569771394696309625
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1191060537753458077}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57e8cb5865f33f44eacf6249002a48e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerGameOver
+  animator: {fileID: 1270962165735826674}
+  spriteRenderer: {fileID: 6660424129053681658}
+  gameOverSprite: {fileID: 21300000, guid: 54986e26910c9c54e8dd8cf3c3d58cc5, type: 3}
 --- !u!1 &1571018370444485564
 GameObject:
   m_ObjectHideFlags: 0

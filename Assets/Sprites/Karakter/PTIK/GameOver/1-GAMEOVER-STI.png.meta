@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 5361792766af70149bdbce55d8f8d812
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8308624593164258427
+    second: 1-GAMEOVER-STI_0
+  - first:
+      213: 4788945528058612798
+    second: 1-GAMEOVER-STI_1
+  - first:
+      213: 4156637240169818145
+    second: 1-GAMEOVER-STI_2
+  - first:
+      213: 1049985261893417367
+    second: 1-GAMEOVER-STI_3
+  - first:
+      213: -3220599336599327257
+    second: 1-GAMEOVER-STI_4
+  - first:
+      213: -4153084273900669976
+    second: 1-GAMEOVER-STI_5
+  - first:
+      213: 4329936771964735942
+    second: 1-GAMEOVER-STI_6
+  - first:
+      213: -4881770966681643549
+    second: 1-GAMEOVER-STI_7
+  - first:
+      213: -7081123167878209422
+    second: 1-GAMEOVER-STI_8
+  - first:
+      213: 531782464002914357
+    second: 1-GAMEOVER-STI_9
+  - first:
+      213: -5984265919816688499
+    second: 1-GAMEOVER-STI_10
+  - first:
+      213: 7902413233656157714
+    second: 1-GAMEOVER-STI_11
+  - first:
+      213: -1445377666270355788
+    second: 1-GAMEOVER-STI_12
+  - first:
+      213: 9074643013599650656
+    second: 1-GAMEOVER-STI_13
+  - first:
+      213: -1838477606151850525
+    second: 1-GAMEOVER-STI_14
+  - first:
+      213: 4490034307795948502
+    second: 1-GAMEOVER-STI_15
+  - first:
+      213: 8828543884547807842
+    second: 1-GAMEOVER-STI_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1-GAMEOVER-STI_0
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1863
+        width: 102
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c41a7eb0a2e4370800000000000000
+      internalID: 8308624593164258427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-GAMEOVER-STI_1
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1863
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c01a8b590c57240800000000000000
+      internalID: 4788945528058612798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-GAMEOVER-STI_2
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1864
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1286b701c875fa930800000000000000
+      internalID: 4156637240169818145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-GAMEOVER-STI_3
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1863
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7997d8a580c429e00800000000000000
+      internalID: 1049985261893417367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-GAMEOVER-STI_4
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1847
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed632287f12e43d0800000000000000
+      internalID: -3220599336599327257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-GAMEOVER-STI_5
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1847
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3b3eb5bd74d56c0800000000000000
+      internalID: -4153084273900669976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-GAMEOVER-STI_6
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1814
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c11cd89d86071c30800000000000000
+      internalID: 4329936771964735942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-GAMEOVER-STI_7
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1822
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e51028ab27704cb0800000000000000
+      internalID: -4881770966681643549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-GAMEOVER-STI_8
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1847
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270a4d70ffbcabd90800000000000000
+      internalID: -7081123167878209422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-GAMEOVER-STI_9
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1847
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538fca06555416700800000000000000
+      internalID: 531782464002914357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-GAMEOVER-STI_10
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1831
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c99d71add93fca0800000000000000
+      internalID: -5984265919816688499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-GAMEOVER-STI_11
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1822
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216db6c97f20bad60800000000000000
+      internalID: 7902413233656157714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-GAMEOVER-STI_12
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1815
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be1ca3abacf0fbe0800000000000000
+      internalID: -1445377666270355788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-GAMEOVER-STI_13
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 1814
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0636619cdbb9fed70800000000000000
+      internalID: 9074643013599650656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-GAMEOVER-STI_14
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1799
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5fecd9b5a6c76e0800000000000000
+      internalID: -1838477606151850525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-GAMEOVER-STI_15
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1782
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d39e79e96ecf4e30800000000000000
+      internalID: 4490034307795948502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-GAMEOVER-STI_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2048
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a5b6a23e9458a70800000000000000
+      internalID: 8828543884547807842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1-GAMEOVER-STI_0: 8308624593164258427
+      1-GAMEOVER-STI_1: 4788945528058612798
+      1-GAMEOVER-STI_10: -5984265919816688499
+      1-GAMEOVER-STI_11: 7902413233656157714
+      1-GAMEOVER-STI_12: -1445377666270355788
+      1-GAMEOVER-STI_13: 9074643013599650656
+      1-GAMEOVER-STI_14: -1838477606151850525
+      1-GAMEOVER-STI_15: 4490034307795948502
+      1-GAMEOVER-STI_16: 8828543884547807842
+      1-GAMEOVER-STI_2: 4156637240169818145
+      1-GAMEOVER-STI_3: 1049985261893417367
+      1-GAMEOVER-STI_4: -3220599336599327257
+      1-GAMEOVER-STI_5: -4153084273900669976
+      1-GAMEOVER-STI_6: 4329936771964735942
+      1-GAMEOVER-STI_7: -4881770966681643549
+      1-GAMEOVER-STI_8: -7081123167878209422
+      1-GAMEOVER-STI_9: 531782464002914357
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

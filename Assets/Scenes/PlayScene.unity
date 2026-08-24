@@ -173,11 +173,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1169257465180558916, guid: 4d47bf0bd9b1c614a8367762cd5cdbca, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 6.5600014
+      value: 11.9
       objectReference: {fileID: 0}
     - target: {fileID: 1169257465180558916, guid: 4d47bf0bd9b1c614a8367762cd5cdbca, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.5
+      value: 0.94
       objectReference: {fileID: 0}
     - target: {fileID: 1169257465180558916, guid: 4d47bf0bd9b1c614a8367762cd5cdbca, type: 3}
       propertyPath: m_LocalPosition.z
@@ -221,11 +221,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5550297060331265943, guid: 4d47bf0bd9b1c614a8367762cd5cdbca, type: 3}
       propertyPath: despawnX
-      value: 10
+      value: -10
       objectReference: {fileID: 0}
     - target: {fileID: 5550297060331265943, guid: 4d47bf0bd9b1c614a8367762cd5cdbca, type: 3}
       propertyPath: cycleLength
-      value: 500
+      value: 1000
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2721,11 +2721,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1169257465180558916, guid: 4d47bf0bd9b1c614a8367762cd5cdbca, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.6499996
+      value: 19.91
       objectReference: {fileID: 0}
     - target: {fileID: 1169257465180558916, guid: 4d47bf0bd9b1c614a8367762cd5cdbca, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4
+      value: 3.68
       objectReference: {fileID: 0}
     - target: {fileID: 1169257465180558916, guid: 4d47bf0bd9b1c614a8367762cd5cdbca, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2769,11 +2769,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5550297060331265943, guid: 4d47bf0bd9b1c614a8367762cd5cdbca, type: 3}
       propertyPath: despawnX
-      value: 10
+      value: -10
       objectReference: {fileID: 0}
     - target: {fileID: 5550297060331265943, guid: 4d47bf0bd9b1c614a8367762cd5cdbca, type: 3}
       propertyPath: cycleLength
-      value: 500
+      value: 1000
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5379,6 +5379,7 @@ Transform:
   - {fileID: 1907119749}
   - {fileID: 1239905055}
   - {fileID: 1208564566}
+  - {fileID: 1833791235}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1437456102
@@ -6154,7 +6155,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1599089796}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1579f801c8c93994ea19ed85afc1c7f3, type: 3}
   m_Name: 
@@ -6241,11 +6242,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1169257465180558916, guid: 4d47bf0bd9b1c614a8367762cd5cdbca, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 14.24
+      value: 16.1
       objectReference: {fileID: 0}
     - target: {fileID: 1169257465180558916, guid: 4d47bf0bd9b1c614a8367762cd5cdbca, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3
+      value: 2.98
       objectReference: {fileID: 0}
     - target: {fileID: 1169257465180558916, guid: 4d47bf0bd9b1c614a8367762cd5cdbca, type: 3}
       propertyPath: m_LocalPosition.z
@@ -6293,11 +6294,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5550297060331265943, guid: 4d47bf0bd9b1c614a8367762cd5cdbca, type: 3}
       propertyPath: despawnX
-      value: 10
+      value: -10
       objectReference: {fileID: 0}
     - target: {fileID: 5550297060331265943, guid: 4d47bf0bd9b1c614a8367762cd5cdbca, type: 3}
       propertyPath: cycleLength
-      value: 500
+      value: 1000
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6769,7 +6770,7 @@ Transform:
   - {fileID: 1464734493}
   - {fileID: 1697970265}
   - {fileID: 1110263651}
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1437456101}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1875268380
 GameObject:
@@ -7699,7 +7700,6 @@ SceneRoots:
   - {fileID: 519420032}
   - {fileID: 619394802}
   - {fileID: 840563399}
-  - {fileID: 1833791235}
   - {fileID: 1437456101}
   - {fileID: 1599089799}
   - {fileID: 1446613049}

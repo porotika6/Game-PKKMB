@@ -145,6 +145,7 @@ GameObject:
   - component: {fileID: 1077331898501130394}
   - component: {fileID: 4634725356555223194}
   - component: {fileID: 432762286907374873}
+  - component: {fileID: 1478259691917564972}
   m_Layer: 0
   m_Name: PTIK 1
   m_TagString: Player
@@ -323,6 +324,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerAnimator
   animator: {fileID: 7788344775725027842}
   rb: {fileID: 949113039975078165}
+--- !u!114 &1478259691917564972
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5032961640946134021}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57e8cb5865f33f44eacf6249002a48e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerGameOver
+  animator: {fileID: 7788344775725027842}
+  spriteRenderer: {fileID: 8873973719561845907}
+  gameOverSprite: {fileID: 21300000, guid: 5361792766af70149bdbce55d8f8d812, type: 3}
 --- !u!1 &5096631528932951882
 GameObject:
   m_ObjectHideFlags: 0

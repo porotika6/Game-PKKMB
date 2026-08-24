@@ -388,6 +388,7 @@ GameObject:
   - component: {fileID: 5427888656607131117}
   - component: {fileID: 8375140052330344799}
   - component: {fileID: 4832470093249348119}
+  - component: {fileID: 7106442544166652363}
   m_Layer: 0
   m_Name: STI 1
   m_TagString: Player
@@ -566,6 +567,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerAnimator
   animator: {fileID: 5226225207738658264}
   rb: {fileID: 9065567857624693899}
+--- !u!114 &7106442544166652363
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5184527716656134293}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57e8cb5865f33f44eacf6249002a48e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerGameOver
+  animator: {fileID: 5226225207738658264}
+  spriteRenderer: {fileID: 9202916119996647757}
+  gameOverSprite: {fileID: 21300000, guid: 5ca5f10fdd341b443ad8f7f3b4255163, type: 3}
 --- !u!1 &6101007231204885482
 GameObject:
   m_ObjectHideFlags: 0
