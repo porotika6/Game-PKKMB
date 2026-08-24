@@ -8,12 +8,14 @@ public class Player_Jump_Input : MonoBehaviour
     public LayerMask GroundLayers;
     public float JumpForce = 5f;
     private Rigidbody2D _rb;
+    private BoxCollider2D _boxCollider;
     private InputAction _jumpAction;
     private bool _isGrounded;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
      private void Awake()
     {
         _rb = GetComponent<Rigidbody2D>();
+        _boxCollider = GetComponent<BoxCollider2D>();
         InputSystem.actions.FindActionMap("Player").Enable();
         _jumpAction = InputSystem.actions.FindAction("Jump");
     }
@@ -23,13 +25,17 @@ public class Player_Jump_Input : MonoBehaviour
          CheckGround();
          GatherInput();
     }
-
     private void CheckGround()
     {
-        bool grounded = Physics2D.OverlapBox(transform.position, new Vector2(.7f, 1f), 0, GroundLayers);
+        bool grounded = Physics2D.OverlapBox(_boxCollider.bounds.center, _boxCollider.bounds.size, 0, GroundLayers);
         _isGrounded = grounded;
     }
-
+    // private void OnDrawGizmos()
+    // {
+    //     if(_boxCollider == null) _boxCollider.GetComponent<BoxCollider2D>();
+    //     Gizmos.color = _isGrounded ? Color.green : Color.red;
+    //     Gizmos.DrawWireCube(_boxCollider.bounds.center, _boxCollider.bounds.size);
+    // }
     private void GatherInput()
     {
         if (_jumpAction.WasPressedThisFrame() && Time.timeScale != 0f)
